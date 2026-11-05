@@ -1,5 +1,14 @@
 {
-  "shop_url": "https://www.davincideluxe.fr/shop",
+  "shop_urls": [
+    "https://www.davincideluxe.fr/shop",
+    "https://www.davincideluxe.org/shop",
+    "https://www.davincideluxe.app/shop",
+    "https://www.davincideluxe.software/shop",
+    "https://www.davincideluxe.es/shop",
+    "https://www.davincideluxe.de/shop",
+    "https://www.davincideluxe.it/shop",
+    "https://www.aesoftech.eu/shop"
+  ],
   "count": 300,
   "products": [
     {
