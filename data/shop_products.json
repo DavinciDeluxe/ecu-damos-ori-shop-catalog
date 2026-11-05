@@ -1,5 +1,2106 @@
 {
   "shop_url": "https://www.davincideluxe.fr/shop",
-  "count": 0,
-  "products": []
+  "count": 300,
+  "products": [
+    {
+      "id": 350,
+      "title": "VAG — Audi · VW · Seat · Skoda DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "vag damos",
+      "price_eur": 560,
+      "url": "https://www.davincideluxe.fr/shop/vag-damos-master-pack"
+    },
+    {
+      "id": 422,
+      "title": "ECM Titanium 1.61",
+      "category": "ecu software",
+      "price_eur": 133,
+      "url": "https://www.davincideluxe.fr/shop/ecm-titanium-1-61-software"
+    },
+    {
+      "id": 586,
+      "title": "WinOLS 39,999 .OLS Calibration Projects Ultimate Master Vault (288.8 GB Uncompressed · 18.3 GB 7z)",
+      "category": "winols",
+      "price_eur": 399,
+      "url": "https://www.davincideluxe.fr/shop/winols-40000-ols-288gb-ultimate-engineering-vault"
+    },
+    {
+      "id": 349,
+      "title": "BMW DAMOS Master Pack — DAMOS, A2L & OLS Files for BMW & Mini ECUs",
+      "category": "bmw damos",
+      "price_eur": 553,
+      "url": "https://www.davincideluxe.fr/shop/bmw-damos-master-pack"
+    },
+    {
+      "id": 587,
+      "title": "E85 Bioethanol / FlexFuel WinOLS .OLS Master Vault (10,000+ Projects · 64.2 GB)",
+      "category": "e85",
+      "price_eur": 349,
+      "url": "https://www.davincideluxe.fr/shop/e85-flexfuel-winols-10000-ols-master-vault"
+    },
+    {
+      "id": 399,
+      "title": "NYO 4.0 2016",
+      "category": "ecu software",
+      "price_eur": 119,
+      "url": "https://www.davincideluxe.fr/shop/nyo-4-0-2016-software"
+    },
+    {
+      "id": 588,
+      "title": "WinOLS .OLS Master Calibration & Reference Projects Vault (7.8 GB)",
+      "category": "winols",
+      "price_eur": 249,
+      "url": "https://www.davincideluxe.fr/shop/fasttech-winols-ols-tuned-projects-database"
+    },
+    {
+      "id": 395,
+      "title": "Truck & Agricultural ECU DAMOS Pack — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 532,
+      "url": "https://www.davincideluxe.fr/shop/truck-agri-ecu-damos-master-pack"
+    },
+    {
+      "id": 589,
+      "title": "Trucks, Tractors & Construction 100% Virgin Original ECU Files Master Pack — 25 Brands (John Deere · Fendt · MAN · Volvo · JCB · Case · Claas)",
+      "category": "trucks",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/trucks-tractors-agri-virgin-originals-25-brands"
+    },
+    {
+      "id": 452,
+      "title": "CarProg 4.85",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/carprog-4-85-software"
+    },
+    {
+      "id": 590,
+      "title": "150+ ECU, IMMO, Airbag, ABS/ESP & Key Engineering Software Mega Vault (3.76 GB)",
+      "category": "immo",
+      "price_eur": 159,
+      "url": "https://www.davincideluxe.fr/shop/ecu-immo-airbag-150-engineering-software-mega-vault"
+    },
+    {
+      "id": 351,
+      "title": "Mercedes-Benz DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "mercedes damos",
+      "price_eur": 525,
+      "url": "https://www.davincideluxe.fr/shop/mercedes-damos-master-pack"
+    },
+    {
+      "id": 591,
+      "title": "Heavy-Duty Trucks, Buses & Tractors Factory DAMOS / A2L Vault (DAF · Iveco · Case IH · New Holland · Steyr · IrisBus)",
+      "category": "damos",
+      "price_eur": 149,
+      "url": "https://www.davincideluxe.fr/shop/heavy-equipment-trucks-tractors-factory-damos-a2l-vault"
+    },
+    {
+      "id": 404,
+      "title": "Immo Universal Decoding 3.2",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/immo-universal-decoding-3-2-software"
+    },
+    {
+      "id": 592,
+      "title": "25-Brand Multi-Make Factory DAMOS, A2L, .OLS & .KP Master Pack (544 MB — Cars, Supercars & Trucks)",
+      "category": "damos",
+      "price_eur": 139,
+      "url": "https://www.davincideluxe.fr/shop/multi-brand-25-makers-damos-a2l-ols-pack-544mb"
+    },
+    {
+      "id": 398,
+      "title": "Professional ECU Tuning Software & Tools Collection",
+      "category": "ecu software",
+      "price_eur": 560,
+      "url": "https://www.davincideluxe.fr/shop/ecu-tuning-software-toolbox"
+    },
+    {
+      "id": 593,
+      "title": "Land Rover · Jaguar · Mazda & GM Delco 100% Virgin Original ECU Stock BIN Pack (193 MB)",
+      "category": "virgin originals",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/land-rover-jaguar-mazda-gm-virgin-original-bin-pack"
+    },
+    {
+      "id": 400,
+      "title": "DASHBOOK 6.4",
+      "category": "ecu software",
+      "price_eur": 105,
+      "url": "https://www.davincideluxe.fr/shop/dashbook-6-4-software"
+    },
+    {
+      "id": 594,
+      "title": "VAG (Audi · VW · SEAT · Skoda · Porsche) EDC15 / EDC16 / EDC17 / MED9 / ME7 / PCR WinOLS .OLS Pack",
+      "category": "winols",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/vag-bosch-edc15-edc16-edc17-med-pcr-winols-ols-pack"
+    },
+    {
+      "id": 353,
+      "title": "Ford DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "ford damos",
+      "price_eur": 518,
+      "url": "https://www.davincideluxe.fr/shop/ford-damos-master-pack"
+    },
+    {
+      "id": 595,
+      "title": "BMW Siemens MSD81 (N53 / N54 5WK93729) Factory Engineering DAMOS & A2L Pack (62 MB)",
+      "category": "damos",
+      "price_eur": 79,
+      "url": "https://www.davincideluxe.fr/shop/bmw-msd81-n53-n54-factory-damos-a2l-pack"
+    },
+    {
+      "id": 421,
+      "title": "Tachosoft Mileage Calculator 23.1",
+      "category": "ecu software",
+      "price_eur": 34.3,
+      "url": "https://www.davincideluxe.fr/shop/tachosoft-mileage-calculator-23-1-software"
+    },
+    {
+      "id": 596,
+      "title": "Delphi DCM3.7 / DCM3.5 / DCM3.1 & Bosch MED17 WinOLS .OLS & DAMOS Calibration Pack",
+      "category": "damos",
+      "price_eur": 59,
+      "url": "https://www.davincideluxe.fr/shop/delphi-dcm37-dcm35-dcm31-bosch-med17-damos-ols-pack"
+    },
+    {
+      "id": 23,
+      "title": "K-TAG 7.020 / K-Suite 2.25 Master Bench, JTAG, BDM & Bootloader ECU Suite (2.58 GB)",
+      "category": "ktag",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/ktag-v7-020-study-pack-comprehensive-guide-for-ecu-programmi"
+    },
+    {
+      "id": 386,
+      "title": "Pro Multi-Brand DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 546,
+      "url": "https://www.davincideluxe.fr/shop/pro-multibrand-damos-master-pack"
+    },
+    {
+      "id": 402,
+      "title": "Immo Code Calculator v147",
+      "category": "ecu software",
+      "price_eur": 112,
+      "url": "https://www.davincideluxe.fr/shop/immo-code-calculator-v147-software"
+    },
+    {
+      "id": 578,
+      "title": "Volkswagen (VW) 100% Virgin Original ECU Stock BIN Master Pack (3,935 Files)",
+      "category": "virgin originals",
+      "price_eur": 149,
+      "url": "https://www.davincideluxe.fr/shop/vw-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 579,
+      "title": "Audi 100% Virgin Original ECU Stock BIN Master Pack (3,893 Files)",
+      "category": "virgin originals",
+      "price_eur": 149,
+      "url": "https://www.davincideluxe.fr/shop/audi-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 580,
+      "title": "Mercedes-Benz 100% Virgin Original ECU Stock BIN Master Pack (2,184 Files)",
+      "category": "virgin originals",
+      "price_eur": 139,
+      "url": "https://www.davincideluxe.fr/shop/mercedes-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 581,
+      "title": "SEAT & Cupra 100% Virgin Original ECU Stock BIN Master Pack (982 Files)",
+      "category": "virgin originals",
+      "price_eur": 99,
+      "url": "https://www.davincideluxe.fr/shop/seat-cupra-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 582,
+      "title": "Volvo 100% Virgin Original ECU Stock BIN Master Pack (601 Files)",
+      "category": "virgin originals",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/volvo-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 583,
+      "title": "Kia 100% Virgin Original ECU Stock BIN Master Pack (206 Files)",
+      "category": "virgin originals",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/kia-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 584,
+      "title": "Hyundai 100% Virgin Original ECU Stock BIN Master Pack (168 Files)",
+      "category": "virgin originals",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/hyundai-virgin-original-ecu-bin-master-pack"
+    },
+    {
+      "id": 585,
+      "title": "Master ECU EEPROM & Flash Dump Collection — Multi-Brand Recovery Archive (1.45 GB)",
+      "category": "eeprom",
+      "price_eur": 119,
+      "url": "https://www.davincideluxe.fr/shop/master-ecu-eeprom-flash-dump-collection"
+    },
+    {
+      "id": 485,
+      "title": "Immo Tool 1.5",
+      "category": "ecu software",
+      "price_eur": 50,
+      "url": "https://www.davincideluxe.fr/shop/immo-tool-1-5-50-software"
+    },
+    {
+      "id": 352,
+      "title": "Renault · Dacia DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "renault damos",
+      "price_eur": 511,
+      "url": "https://www.davincideluxe.fr/shop/renault-damos-master-pack"
+    },
+    {
+      "id": 396,
+      "title": "VAG Bosch ECU DAMOS Pack (EDC · MED · PCR) — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 497,
+      "url": "https://www.davincideluxe.fr/shop/vag-bosch-ecu-damos-master-pack"
+    },
+    {
+      "id": 354,
+      "title": "Porsche DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "porsche damos",
+      "price_eur": 490,
+      "url": "https://www.davincideluxe.fr/shop/porsche-damos-master-pack"
+    },
+    {
+      "id": 394,
+      "title": "DAMOS Collection Vol.4 — Multi-Brand — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 490,
+      "url": "https://www.davincideluxe.fr/shop/damos-collection-vol4-master-pack"
+    },
+    {
+      "id": 355,
+      "title": "Fiat DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "fiat damos",
+      "price_eur": 483,
+      "url": "https://www.davincideluxe.fr/shop/fiat-damos-master-pack"
+    },
+    {
+      "id": 357,
+      "title": "Alfa Romeo DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "alfa-romeo damos",
+      "price_eur": 476,
+      "url": "https://www.davincideluxe.fr/shop/alfa-romeo-damos-master-pack"
+    },
+    {
+      "id": 360,
+      "title": "Honda · Acura DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "honda damos",
+      "price_eur": 469,
+      "url": "https://www.davincideluxe.fr/shop/honda-damos-master-pack"
+    },
+    {
+      "id": 366,
+      "title": "Hyundai · Kia DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "hyundai-kia damos",
+      "price_eur": 455,
+      "url": "https://www.davincideluxe.fr/shop/hyundai-kia-damos-master-pack"
+    },
+    {
+      "id": 362,
+      "title": "Jaguar DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "jaguar damos",
+      "price_eur": 448,
+      "url": "https://www.davincideluxe.fr/shop/jaguar-damos-master-pack"
+    },
+    {
+      "id": 365,
+      "title": "Land Rover · Range Rover DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "land-rover damos",
+      "price_eur": 441,
+      "url": "https://www.davincideluxe.fr/shop/land-rover-damos-master-pack"
+    },
+    {
+      "id": 361,
+      "title": "Dodge · Chrysler · Jeep DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "dodge-chrysler-jeep damos",
+      "price_eur": 434,
+      "url": "https://www.davincideluxe.fr/shop/dodge-chrysler-jeep-damos-master-pack"
+    },
+    {
+      "id": 367,
+      "title": "BMW Alpina DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "alpina damos",
+      "price_eur": 420,
+      "url": "https://www.davincideluxe.fr/shop/alpina-damos-master-pack"
+    },
+    {
+      "id": 387,
+      "title": "Multi-Brand DAMOS Collection Vol.2 — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 413,
+      "url": "https://www.davincideluxe.fr/shop/multibrand-vol2-damos-master-pack"
+    },
+    {
+      "id": 397,
+      "title": "Delphi DCM & Bosch MED17 DAMOS Pack — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 406,
+      "url": "https://www.davincideluxe.fr/shop/delphi-dcm-med17-damos-master-pack"
+    },
+    {
+      "id": 393,
+      "title": "Kia Rio X-Line ME17.9.21 DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "kia-rio-me17 damos",
+      "price_eur": 399,
+      "url": "https://www.davincideluxe.fr/shop/kia-rio-me17-damos-master-pack"
+    },
+    {
+      "id": 374,
+      "title": "Citroën DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "citroen damos",
+      "price_eur": 392,
+      "url": "https://www.davincideluxe.fr/shop/citroen-damos-master-pack"
+    },
+    {
+      "id": 363,
+      "title": "Volvo DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "volvo damos",
+      "price_eur": 378,
+      "url": "https://www.davincideluxe.fr/shop/volvo-damos-master-pack"
+    },
+    {
+      "id": 376,
+      "title": "Wuling DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "wuling damos",
+      "price_eur": 371,
+      "url": "https://www.davincideluxe.fr/shop/wuling-damos-master-pack"
+    },
+    {
+      "id": 388,
+      "title": "Mitsubishi DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "mitsubishi damos",
+      "price_eur": 364,
+      "url": "https://www.davincideluxe.fr/shop/mitsubishi-damos-master-pack"
+    },
+    {
+      "id": 364,
+      "title": "Nissan · Infiniti DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "nissan damos",
+      "price_eur": 357,
+      "url": "https://www.davincideluxe.fr/shop/nissan-damos-master-pack"
+    },
+    {
+      "id": 356,
+      "title": "Peugeot · Citroën DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "peugeot-citroen damos",
+      "price_eur": 350,
+      "url": "https://www.davincideluxe.fr/shop/peugeot-citroen-damos-master-pack"
+    },
+    {
+      "id": 359,
+      "title": "Mini DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "mini damos",
+      "price_eur": 336,
+      "url": "https://www.davincideluxe.fr/shop/mini-damos-master-pack"
+    },
+    {
+      "id": 389,
+      "title": "SsangYong DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "ssangyong damos",
+      "price_eur": 329,
+      "url": "https://www.davincideluxe.fr/shop/ssangyong-damos-master-pack"
+    },
+    {
+      "id": 379,
+      "title": "Mazda DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "mazda damos",
+      "price_eur": 322,
+      "url": "https://www.davincideluxe.fr/shop/mazda-damos-master-pack"
+    },
+    {
+      "id": 381,
+      "title": "Ferrari DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "ferrari damos",
+      "price_eur": 315,
+      "url": "https://www.davincideluxe.fr/shop/ferrari-damos-master-pack"
+    },
+    {
+      "id": 392,
+      "title": "Multi-Brand DAMOS Collection Vol.3 — DAMOS, A2L & OLS Files",
+      "category": "damos",
+      "price_eur": 301,
+      "url": "https://www.davincideluxe.fr/shop/multibrand-vol3-damos-master-pack"
+    },
+    {
+      "id": 358,
+      "title": "Opel · Vauxhall DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "opel damos",
+      "price_eur": 294,
+      "url": "https://www.davincideluxe.fr/shop/opel-damos-master-pack"
+    },
+    {
+      "id": 384,
+      "title": "Vermeer DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "vermeer damos",
+      "price_eur": 287,
+      "url": "https://www.davincideluxe.fr/shop/vermeer-damos-master-pack"
+    },
+    {
+      "id": 390,
+      "title": "Subaru DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "subaru damos",
+      "price_eur": 280,
+      "url": "https://www.davincideluxe.fr/shop/subaru-damos-master-pack"
+    },
+    {
+      "id": 373,
+      "title": "Lamborghini DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "lamborghini damos",
+      "price_eur": 273,
+      "url": "https://www.davincideluxe.fr/shop/lamborghini-damos-master-pack"
+    },
+    {
+      "id": 377,
+      "title": "Saab DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "saab damos",
+      "price_eur": 259,
+      "url": "https://www.davincideluxe.fr/shop/saab-damos-master-pack"
+    },
+    {
+      "id": 380,
+      "title": "Agrale DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "agrale damos",
+      "price_eur": 252,
+      "url": "https://www.davincideluxe.fr/shop/agrale-damos-master-pack"
+    },
+    {
+      "id": 369,
+      "title": "Lancia DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "lancia damos",
+      "price_eur": 245,
+      "url": "https://www.davincideluxe.fr/shop/lancia-damos-master-pack"
+    },
+    {
+      "id": 383,
+      "title": "Sennebogen DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "sennebogen damos",
+      "price_eur": 238,
+      "url": "https://www.davincideluxe.fr/shop/sennebogen-damos-master-pack"
+    },
+    {
+      "id": 391,
+      "title": "Great Wall · Haval (Hover) DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "great-wall-haval damos",
+      "price_eur": 238,
+      "url": "https://www.davincideluxe.fr/shop/great-wall-haval-damos-master-pack"
+    },
+    {
+      "id": 372,
+      "title": "Bentley DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "bentley damos",
+      "price_eur": 231,
+      "url": "https://www.davincideluxe.fr/shop/bentley-damos-master-pack"
+    },
+    {
+      "id": 370,
+      "title": "Smart DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "smart damos",
+      "price_eur": 224,
+      "url": "https://www.davincideluxe.fr/shop/smart-damos-master-pack"
+    },
+    {
+      "id": 368,
+      "title": "Maserati DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "maserati damos",
+      "price_eur": 217,
+      "url": "https://www.davincideluxe.fr/shop/maserati-damos-master-pack"
+    },
+    {
+      "id": 375,
+      "title": "Toyota · Lexus DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "toyota damos",
+      "price_eur": 217,
+      "url": "https://www.davincideluxe.fr/shop/toyota-damos-master-pack"
+    },
+    {
+      "id": 348,
+      "title": "Truck Tuning DAMOS Pack — OLS, A2L, BIN & HEX Files Collection",
+      "category": "truck tuning",
+      "price_eur": 210,
+      "url": "https://www.davincideluxe.fr/shop/truck-tuning-damos-ols-a2l-hex-files-collection"
+    },
+    {
+      "id": 371,
+      "title": "GM — Chevrolet · Opel · Cadillac DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "gm damos",
+      "price_eur": 210,
+      "url": "https://www.davincideluxe.fr/shop/gm-damos-master-pack"
+    },
+    {
+      "id": 378,
+      "title": "McLaren DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "mclaren damos",
+      "price_eur": 210,
+      "url": "https://www.davincideluxe.fr/shop/mclaren-damos-master-pack"
+    },
+    {
+      "id": 382,
+      "title": "Suzuki DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "suzuki damos",
+      "price_eur": 210,
+      "url": "https://www.davincideluxe.fr/shop/suzuki-damos-master-pack"
+    },
+    {
+      "id": 385,
+      "title": "Sea-Doo (Marine) DAMOS Master Pack — DAMOS, A2L & OLS Files",
+      "category": "sea-doo damos",
+      "price_eur": 210,
+      "url": "https://www.davincideluxe.fr/shop/sea-doo-damos-master-pack"
+    },
+    {
+      "id": 401,
+      "title": "NYO4 2015",
+      "category": "ecu software",
+      "price_eur": 105,
+      "url": "https://www.davincideluxe.fr/shop/nyo4-2015-software"
+    },
+    {
+      "id": 1,
+      "title": "Automotive Diagnostic Tools — Technician Reference",
+      "category": "chip tuning",
+      "price_eur": 104.3,
+      "url": "https://www.davincideluxe.fr/shop/ultimate-chip-tuning-pack-800gb-files-200k-tutorial-videos"
+    },
+    {
+      "id": 445,
+      "title": "Magneti Marelli Vision 5 Mapping Software",
+      "category": "ecu software",
+      "price_eur": 91,
+      "url": "https://www.davincideluxe.fr/shop/magneti-marelli-vision-5-mapping-software-software"
+    },
+    {
+      "id": 136,
+      "title": "LS Droid — Technician Reference",
+      "category": "Trasdata",
+      "price_eur": 82.59,
+      "url": "https://www.davincideluxe.fr/shop/ls-droid-workflow-study-pack-comprehensive-guide-for-gm-pcm"
+    },
+    {
+      "id": 182,
+      "title": "Volvo Encryptor-Decryptor — Technician Reference",
+      "category": "Volvo",
+      "price_eur": 81.89,
+      "url": "https://www.davincideluxe.fr/shop/volvo-ecu-programming-study-pack-encryption-decryption-and-f"
+    },
+    {
+      "id": 67,
+      "title": "Cummins Insite 8.9 PRO — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 81.19,
+      "url": "https://www.davincideluxe.fr/shop/cummins-insite-8-9-pro-workflow-study-pack-diagnostic-softwa"
+    },
+    {
+      "id": 416,
+      "title": "TM100 Key Programmer 1.23",
+      "category": "ecu software",
+      "price_eur": 77,
+      "url": "https://www.davincideluxe.fr/shop/tm100-key-programmer-1-23-software"
+    },
+    {
+      "id": 195,
+      "title": "GM ECU Seed/Key Tool — Technician Reference",
+      "category": "GM ECU Seed",
+      "price_eur": 67.89,
+      "url": "https://www.davincideluxe.fr/shop/gm-ecu-seed-key-tool-study-pack-comprehensive-guide-for-tech"
+    },
+    {
+      "id": 174,
+      "title": "WinOLS 4.51 — Technician Reference",
+      "category": "Damos",
+      "price_eur": 65.79,
+      "url": "https://www.davincideluxe.fr/shop/winols-workflow-study-pack-comprehensive-guide-for-ecu-tunin-2"
+    },
+    {
+      "id": 218,
+      "title": "J2534 ECU Programming Software — Reference Notes",
+      "category": "J2534",
+      "price_eur": 63.69,
+      "url": "https://www.davincideluxe.fr/shop/j2534-ecu-programming-study-pack-documentation-and-resources"
+    },
+    {
+      "id": 468,
+      "title": "EURO2 Total Decoding Tools",
+      "category": "ecu software",
+      "price_eur": 63,
+      "url": "https://www.davincideluxe.fr/shop/euro2-total-decoding-tools-software"
+    },
+    {
+      "id": 480,
+      "title": "E-Sys Plus",
+      "category": "ecu software",
+      "price_eur": 63,
+      "url": "https://www.davincideluxe.fr/shop/e-sys-plus-software"
+    },
+    {
+      "id": 483,
+      "title": "Volta + EcuSafe",
+      "category": "ecu software",
+      "price_eur": 63,
+      "url": "https://www.davincideluxe.fr/shop/volta-ecusafe-software"
+    },
+    {
+      "id": 497,
+      "title": "MB IRPROG (Key Only)",
+      "category": "ecu software",
+      "price_eur": 63,
+      "url": "https://www.davincideluxe.fr/shop/mb-irprog-key-only-software"
+    },
+    {
+      "id": 499,
+      "title": "VAG/PSA DTC Remover + Removers Pack",
+      "category": "ecu software",
+      "price_eur": 63,
+      "url": "https://www.davincideluxe.fr/shop/vag-psa-dtc-remover-removers-pack-software"
+    },
+    {
+      "id": 186,
+      "title": "Stakis Technik 2018.1 — Technician Reference",
+      "category": "Stakis Technik",
+      "price_eur": 62.99,
+      "url": "https://www.davincideluxe.fr/shop/stakis-technik-2018-1-workflow-study-pack-automotive-diagnos"
+    },
+    {
+      "id": 314,
+      "title": "SDD 167 Calibration Files VBFs — Technician Reference",
+      "category": "JLR",
+      "price_eur": 62.99,
+      "url": "https://www.davincideluxe.fr/shop/calibration-files-vbfs-study-pack-for-jlr-sdd-167-version-54"
+    },
+    {
+      "id": 256,
+      "title": "ECU Checksum Correction Software 0.95 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 61.59,
+      "url": "https://www.davincideluxe.fr/shop/ecu-checksum-correction-study-pack-for-volvo-bmw-diagnostic"
+    },
+    {
+      "id": 80,
+      "title": "BMW ETK 2020-01 — Parts Reference Study Pack",
+      "category": "BMW ETK 2020-01",
+      "price_eur": 60.89,
+      "url": "https://www.davincideluxe.fr/shop/bmw-etk-2020-01-study-pack-comprehensive-parts-catalog-refer"
+    },
+    {
+      "id": 109,
+      "title": "Insite Truck Engine Diagnostic Software 8.7 — Technician Reference",
+      "category": "Insite",
+      "price_eur": 60.19,
+      "url": "https://www.davincideluxe.fr/shop/insite-truck-engine-diagnostic-software-8-7-study-pack-with"
+    },
+    {
+      "id": 62,
+      "title": "Carlabimmo IMMO BYPASS — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 58.09,
+      "url": "https://www.davincideluxe.fr/shop/carlabimmo-immo-study-pack-ecu-repair-techniques-and-resourc"
+    },
+    {
+      "id": 6,
+      "title": "AUTODATA 3.45 — Technician Reference",
+      "category": "VCDS",
+      "price_eur": 57.39,
+      "url": "https://www.davincideluxe.fr/shop/autodata-3-45-workflow-study-pack-comprehensive-guide-for-ve"
+    },
+    {
+      "id": 159,
+      "title": "Haynes PRO 2018 — Technician Reference",
+      "category": "Haynes PRO",
+      "price_eur": 57.39,
+      "url": "https://www.davincideluxe.fr/shop/haynes-pro-2018-workshop-data-study-pack-comprehensive-techn"
+    },
+    {
+      "id": 5,
+      "title": "Volvo VIDA 2014D — Technician Reference",
+      "category": "Volvo VIDA",
+      "price_eur": 56.7,
+      "url": "https://www.davincideluxe.fr/shop/volvo-vida-2014d-study-pack-comprehensive-guide-for-vehicle"
+    },
+    {
+      "id": 87,
+      "title": "Honda Electronic Parts Catalogue (EPC) 2020 — Technician Reference",
+      "category": "Honda",
+      "price_eur": 56.69,
+      "url": "https://www.davincideluxe.fr/shop/honda-electronic-parts-catalogue-epc-2020-comprehensive-digi"
+    },
+    {
+      "id": 138,
+      "title": "PCM Hammer 2.0 — Technician Reference",
+      "category": "PCM Hammer",
+      "price_eur": 56.69,
+      "url": "https://www.davincideluxe.fr/shop/pcm-hammer-2-0-study-pack-ecu-tuning-diagnostic-reference-gu"
+    },
+    {
+      "id": 185,
+      "title": "DTS Monaco 8.16 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 56.69,
+      "url": "https://www.davincideluxe.fr/shop/dts-monaco-8-16-study-pack-comprehensive-guide-for-automotiv"
+    },
+    {
+      "id": 533,
+      "title": "Perfekt Toolbox 0.1a BMW Cluster Tool",
+      "category": "ecu software",
+      "price_eur": 56,
+      "url": "https://www.davincideluxe.fr/shop/perfekt-toolbox-0-1a-bmw-cluster-tool-software"
+    },
+    {
+      "id": 103,
+      "title": "ECU Tuning Solutions V1.00 — Technician Reference",
+      "category": "ECU Tuning Solutions V1.00",
+      "price_eur": 55.99,
+      "url": "https://www.davincideluxe.fr/shop/ecu-tuning-solutions-v1-00-study-pack-comprehensive-guide-fo"
+    },
+    {
+      "id": 129,
+      "title": "ECUDecoder — Workflow Study Pack",
+      "category": "ECUDecoder",
+      "price_eur": 77.99,
+      "url": "https://www.davincideluxe.fr/shop/ecudecoder-workflow-study-pack-comprehensive-guide-for-ecu-f"
+    },
+    {
+      "id": 300,
+      "title": "Nissan Consult III+ V75 — Technician Reference",
+      "category": "Nissan",
+      "price_eur": 54.59,
+      "url": "https://www.davincideluxe.fr/shop/nissan-consult-iii-v75-diagnostic-tool-study-pack-reference"
+    },
+    {
+      "id": 316,
+      "title": "Hex Editor Neo — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 53.89,
+      "url": "https://www.davincideluxe.fr/shop/hex-editor-neo-workflow-study-pack-comprehensive-guide-for-b"
+    },
+    {
+      "id": 32,
+      "title": "ATRIS Stahlgruber + ATRIS Technik 2 - 2014 — Technician Reference",
+      "category": "ATRIS Stahlgruber",
+      "price_eur": 53.19,
+      "url": "https://www.davincideluxe.fr/shop/atris-stahlgruber-atris-technik-2-2014-study-pack-vehicle-di"
+    },
+    {
+      "id": 171,
+      "title": "DTC Solutions v2.9.96 — Technician Reference",
+      "category": "DTC Solutions",
+      "price_eur": 53.19,
+      "url": "https://www.davincideluxe.fr/shop/dtc-solutions-v2-9-96-study-pack-truck-fault-code-repair-and"
+    },
+    {
+      "id": 462,
+      "title": "BMW FSC NBT",
+      "category": "ecu software",
+      "price_eur": 52.5,
+      "url": "https://www.davincideluxe.fr/shop/bmw-fsc-nbt-software"
+    },
+    {
+      "id": 501,
+      "title": "DTC Remover 1.02",
+      "category": "ecu software",
+      "price_eur": 52.5,
+      "url": "https://www.davincideluxe.fr/shop/dtc-remover-1-02-software"
+    },
+    {
+      "id": 139,
+      "title": "NeuroSuite — Workflow Study Pack",
+      "category": "Neurosuite",
+      "price_eur": 52.49,
+      "url": "https://www.davincideluxe.fr/shop/neurosuite-workflow-study-pack-reference-guide-for-neural-si"
+    },
+    {
+      "id": 61,
+      "title": "Trucktool 4.8.0 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 51.09,
+      "url": "https://www.davincideluxe.fr/shop/trucktool-4-8-0-study-pack-diagnostic-guide-for-forklift-sof"
+    },
+    {
+      "id": 50,
+      "title": "IVECO EASY 13.1 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 50.39,
+      "url": "https://www.davincideluxe.fr/shop/iveco-easy-13-1-study-pack-comprehensive-guide-for-iveco-tru"
+    },
+    {
+      "id": 164,
+      "title": "Airbag System Diagrams Viewer — Technician Reference",
+      "category": "Airbag",
+      "price_eur": 50.39,
+      "url": "https://www.davincideluxe.fr/shop/airbag-system-diagrams-study-pack-comprehensive-guide-to-srs"
+    },
+    {
+      "id": 407,
+      "title": "DPF EGR Lambda Remover 2017",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/dpf-egr-lambda-remover-2017-software"
+    },
+    {
+      "id": 408,
+      "title": "Dashboard Service Tool",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/dashboard-service-tool-software"
+    },
+    {
+      "id": 410,
+      "title": "CarTool 3.6",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/cartool-3-6-software"
+    },
+    {
+      "id": 411,
+      "title": "AirBag Service Tool",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/airbag-service-tool-software"
+    },
+    {
+      "id": 432,
+      "title": "UltraProg 17",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/ultraprog-17-software"
+    },
+    {
+      "id": 433,
+      "title": "UltraProg 17.3.8",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/ultraprog-17-3-8-software"
+    },
+    {
+      "id": 443,
+      "title": "BMW Key Programmer",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/bmw-key-programmer-software"
+    },
+    {
+      "id": 454,
+      "title": "Meucci Engine ECU Decoding",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/meucci-engine-ecu-decoding-software"
+    },
+    {
+      "id": 469,
+      "title": "Airbag Universal Repair",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/airbag-universal-repair-software"
+    },
+    {
+      "id": 475,
+      "title": "DTC Remover 1.720",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/dtc-remover-1-720-software"
+    },
+    {
+      "id": 476,
+      "title": "Renault Pin Extractor 2",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/renault-pin-extractor-2-software"
+    },
+    {
+      "id": 477,
+      "title": "EDC17 Immo Remover",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/edc17-immo-remover-software"
+    },
+    {
+      "id": 495,
+      "title": "FSC Generator",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/fsc-generator-software"
+    },
+    {
+      "id": 522,
+      "title": "Dash Calculator V2",
+      "category": "ecu software",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/dash-calculator-v2-software"
+    },
+    {
+      "id": 99,
+      "title": "ECU DATA SHEET 2.0 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 48.99,
+      "url": "https://www.davincideluxe.fr/shop/ecu-data-sheet-2-0-study-pack-comprehensive-ecu-repair-docum"
+    },
+    {
+      "id": 51,
+      "title": "Mitchell OnDemand 1Q.2015 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 48.29,
+      "url": "https://www.davincideluxe.fr/shop/mitchell-ondemand-1q-2015-manager-plus-study-pack-comprehens"
+    },
+    {
+      "id": 78,
+      "title": "Petrol10 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 46.19,
+      "url": "https://www.davincideluxe.fr/shop/petrol10-workflow-study-pack-comprehensive-guide-for-automot"
+    },
+    {
+      "id": 413,
+      "title": "Pro EGR DPF Remover",
+      "category": "ecu software",
+      "price_eur": 45.5,
+      "url": "https://www.davincideluxe.fr/shop/pro-egr-dpf-remover-software"
+    },
+    {
+      "id": 489,
+      "title": "Airbag Tool + GetID",
+      "category": "ecu software",
+      "price_eur": 45.5,
+      "url": "https://www.davincideluxe.fr/shop/airbag-tool-getid-software"
+    },
+    {
+      "id": 403,
+      "title": "DeviceScripts",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/devicescripts-software"
+    },
+    {
+      "id": 405,
+      "title": "ECU Vonix 3.2",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/ecu-vonix-3-2-software"
+    },
+    {
+      "id": 409,
+      "title": "Nissan NERS 03.01.00",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/nissan-ners-03-01-00-software"
+    },
+    {
+      "id": 434,
+      "title": "Dashboard Service Tool v1.8",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/dashboard-service-tool-v1-8-software"
+    },
+    {
+      "id": 444,
+      "title": "Ford All In One",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/ford-all-in-one-software"
+    },
+    {
+      "id": 447,
+      "title": "EDC17 Immo OFF Service Tool 1.7",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/edc17-immo-off-service-tool-1-7-software"
+    },
+    {
+      "id": 458,
+      "title": "AE-Tool 1.3",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/ae-tool-1-3-software"
+    },
+    {
+      "id": 474,
+      "title": "Ford ECU Licensed",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/ford-ecu-licensed-software"
+    },
+    {
+      "id": 479,
+      "title": "EcuSafe 2.0",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/ecusafe-2-0-software"
+    },
+    {
+      "id": 491,
+      "title": "PSA BSI Calculator",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/psa-bsi-calculator-software"
+    },
+    {
+      "id": 565,
+      "title": "Dashboard Mileage Corrector 1.10",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/dashboard-mileage-corrector-1-10-software"
+    },
+    {
+      "id": 575,
+      "title": "Crash Data Resetter",
+      "category": "ecu software",
+      "price_eur": 42,
+      "url": "https://www.davincideluxe.fr/shop/crash-data-resetter-software"
+    },
+    {
+      "id": 79,
+      "title": "Autocom Delphi 2017R3 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 41.99,
+      "url": "https://www.davincideluxe.fr/shop/autocom-delphi-2017r3-final-study-pack-comprehensive-diagnos"
+    },
+    {
+      "id": 271,
+      "title": "Porsche PIWIS / PIDT2 for PT3G — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 41.99,
+      "url": "https://www.davincideluxe.fr/shop/porsche-piwis-pidt2-diagnostic-workflow-study-pack-for-pt3g"
+    },
+    {
+      "id": 37,
+      "title": "VAG SFD XML Offline Calculation Tool — Technician Reference",
+      "category": "VAG SFD",
+      "price_eur": 41.29,
+      "url": "https://www.davincideluxe.fr/shop/vag-sfd-xml-offline-calculation-tool-study-pack-version-2-02"
+    },
+    {
+      "id": 457,
+      "title": "Professional EGR + Immo + HotStart Remover 1.5.5",
+      "category": "ecu software",
+      "price_eur": 40.6,
+      "url": "https://www.davincideluxe.fr/shop/professional-egr-immo-hotstart-remover-1-5-5-software"
+    },
+    {
+      "id": 295,
+      "title": "Nissan Consult 3+ v241 — Technician Reference",
+      "category": "Nissan",
+      "price_eur": 39.19,
+      "url": "https://www.davincideluxe.fr/shop/nissan-consult-3-v241-study-pack-diagnostic-reprogramming-gu"
+    },
+    {
+      "id": 414,
+      "title": "CarTool 3.0F",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/cartool-3-0f-software"
+    },
+    {
+      "id": 415,
+      "title": "Immo Service Tool 1.2",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/immo-service-tool-1-2-software"
+    },
+    {
+      "id": 417,
+      "title": "DTC Remover",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/dtc-remover-software"
+    },
+    {
+      "id": 420,
+      "title": "Airbag Service Tool 3.9",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/airbag-service-tool-3-9-software"
+    },
+    {
+      "id": 429,
+      "title": "ETSmart USB Calculator",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/etsmart-usb-calculator-software"
+    },
+    {
+      "id": 435,
+      "title": "EDC17 IMMO Service Tool",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/edc17-immo-service-tool-software"
+    },
+    {
+      "id": 442,
+      "title": "ECU Vonix Airbag",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/ecu-vonix-airbag-software"
+    },
+    {
+      "id": 490,
+      "title": "Dash Calibration V2",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/dash-calibration-v2-software"
+    },
+    {
+      "id": 502,
+      "title": "Dash Calibration 2.0.17",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/dash-calibration-2-0-17-software"
+    },
+    {
+      "id": 527,
+      "title": "Bosch Airbag Reset Tool",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/bosch-airbag-reset-tool-software"
+    },
+    {
+      "id": 536,
+      "title": "Dashboard VW Tool 1.0.1",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/dashboard-vw-tool-1-0-1-software"
+    },
+    {
+      "id": 539,
+      "title": "Ford PATS Incode Calculator",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/ford-pats-incode-calculator-software"
+    },
+    {
+      "id": 540,
+      "title": "EDC15 EEPROM Tool 1.3",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/edc15-eeprom-tool-1-3-software"
+    },
+    {
+      "id": 542,
+      "title": "AES EGR Remover v2.2",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/aes-egr-remover-v2-2-software"
+    },
+    {
+      "id": 551,
+      "title": "VAG EDC16 Immo Bypass",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/vag-edc16-immo-bypass-software"
+    },
+    {
+      "id": 564,
+      "title": "KMprog",
+      "category": "ecu software",
+      "price_eur": 38.5,
+      "url": "https://www.davincideluxe.fr/shop/kmprog-software"
+    },
+    {
+      "id": 63,
+      "title": "Chrysler APNT Version 2.0 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 37.09,
+      "url": "https://www.davincideluxe.fr/shop/chrysler-apnt-version-2-0-study-pack-vin-editing-and-skim-ma"
+    },
+    {
+      "id": 406,
+      "title": "Car Radio Calculators (170+ pcs)",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/car-radio-calculators-170-pcs-software"
+    },
+    {
+      "id": 412,
+      "title": "FSC Enabling Codes",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/fsc-enabling-codes-software"
+    },
+    {
+      "id": 424,
+      "title": "Immo Off EDC17",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/immo-off-edc17-software"
+    },
+    {
+      "id": 430,
+      "title": "FAP DPF 3.0",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/fap-dpf-3-0-software"
+    },
+    {
+      "id": 437,
+      "title": "OtoCheck Immo Tool v2.0",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/otocheck-immo-tool-v2-0-software"
+    },
+    {
+      "id": 448,
+      "title": "Air4",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/air4-software"
+    },
+    {
+      "id": 450,
+      "title": "Dash EcuTeacher",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/dash-ecuteacher-software"
+    },
+    {
+      "id": 459,
+      "title": "Immo 3",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/immo-3-software"
+    },
+    {
+      "id": 461,
+      "title": "Volvo ECU 2.3",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/volvo-ecu-2-3-software"
+    },
+    {
+      "id": 464,
+      "title": "PSA",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/psa-software"
+    },
+    {
+      "id": 466,
+      "title": "Immo SCP",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/immo-scp-software"
+    },
+    {
+      "id": 467,
+      "title": "Ford Connect",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/ford-connect-software"
+    },
+    {
+      "id": 471,
+      "title": "BMW Ai Coder 4.4",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/bmw-ai-coder-4-4-software"
+    },
+    {
+      "id": 472,
+      "title": "Volvo Synchro 1.4",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/volvo-synchro-1-4-software"
+    },
+    {
+      "id": 478,
+      "title": "Airbag Crash Data Clear Tool",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/airbag-crash-data-clear-tool-software"
+    },
+    {
+      "id": 482,
+      "title": "Kia Hyundai VIN to PIN 2007",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/kia-hyundai-vin-to-pin-2007-software"
+    },
+    {
+      "id": 484,
+      "title": "Immo Tool 1.5",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/immo-tool-1-5-software"
+    },
+    {
+      "id": 487,
+      "title": "MTXChk 1.0.0.6",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/mtxchk-1-0-0-6-software"
+    },
+    {
+      "id": 493,
+      "title": "CKS Corrector",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/cks-corrector-software"
+    },
+    {
+      "id": 511,
+      "title": "Mercedes Sprinter Vito Start Error 1.3",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/mercedes-sprinter-vito-start-error-1-3-software"
+    },
+    {
+      "id": 514,
+      "title": "Mercedes Vito Marelli KM Calibration",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/mercedes-vito-marelli-km-calibration-software"
+    },
+    {
+      "id": 528,
+      "title": "Audi VDO Crypto",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/audi-vdo-crypto-software"
+    },
+    {
+      "id": 530,
+      "title": "Opel KM Calibration (NEC 78082x)",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/opel-km-calibration-nec-78082x-software"
+    },
+    {
+      "id": 535,
+      "title": "Immo Nissan",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/immo-nissan-software"
+    },
+    {
+      "id": 555,
+      "title": "Fiat Immo Off Repair",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/fiat-immo-off-repair-software"
+    },
+    {
+      "id": 558,
+      "title": "Dashmaster PRO Eeprommer 2.2",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/dashmaster-pro-eeprommer-2-2-software"
+    },
+    {
+      "id": 567,
+      "title": "Renault PIN Extractor",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/renault-pin-extractor-software"
+    },
+    {
+      "id": 570,
+      "title": "ECU Programmer 1.8.2",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/ecu-programmer-1-8-2-software"
+    },
+    {
+      "id": 574,
+      "title": "Immo Login Calculator",
+      "category": "ecu software",
+      "price_eur": 35,
+      "url": "https://www.davincideluxe.fr/shop/immo-login-calculator-software"
+    },
+    {
+      "id": 439,
+      "title": "OtoCheck 2",
+      "category": "ecu software",
+      "price_eur": 33.6,
+      "url": "https://www.davincideluxe.fr/shop/otocheck-2-software"
+    },
+    {
+      "id": 455,
+      "title": "Professional EGR",
+      "category": "ecu software",
+      "price_eur": 33.6,
+      "url": "https://www.davincideluxe.fr/shop/professional-egr-software"
+    },
+    {
+      "id": 418,
+      "title": "FSTool (BMW FSC Code Tool)",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/fstool-bmw-fsc-code-tool-software"
+    },
+    {
+      "id": 419,
+      "title": "ImmoKiller 1.10",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/immokiller-1-10-software"
+    },
+    {
+      "id": 426,
+      "title": "Immo Service Tool 1.0",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/immo-service-tool-1-0-software"
+    },
+    {
+      "id": 428,
+      "title": "Data Explorer Manager Tools",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/data-explorer-manager-tools-software"
+    },
+    {
+      "id": 431,
+      "title": "moDiag Professional 2.8.500",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/modiag-professional-2-8-500-software"
+    },
+    {
+      "id": 446,
+      "title": "010 Editor 3.22",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/010-editor-3-22-software"
+    },
+    {
+      "id": 456,
+      "title": "EGR Remover 1.5.5",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/egr-remover-1-5-5-software"
+    },
+    {
+      "id": 470,
+      "title": "Toyota 4D KeyTool 1.2",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/toyota-4d-keytool-1-2-software"
+    },
+    {
+      "id": 492,
+      "title": "ManEdit",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/manedit-software"
+    },
+    {
+      "id": 498,
+      "title": "PSA Dump To Pin",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/psa-dump-to-pin-software"
+    },
+    {
+      "id": 506,
+      "title": "Fiat ECU Flasher v0.84",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/fiat-ecu-flasher-v0-84-software"
+    },
+    {
+      "id": 508,
+      "title": "Fiat Body Computer Tool",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/fiat-body-computer-tool-software"
+    },
+    {
+      "id": 518,
+      "title": "Opel KM 0.8",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/opel-km-0-8-software"
+    },
+    {
+      "id": 520,
+      "title": "Fiat KM Calibration 1.0",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/fiat-km-calibration-1-0-software"
+    },
+    {
+      "id": 524,
+      "title": "VAG Eepromer 1.18p",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/vag-eepromer-1-18p-software"
+    },
+    {
+      "id": 532,
+      "title": "Audi A4 Bosch Crypto",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/audi-a4-bosch-crypto-software"
+    },
+    {
+      "id": 560,
+      "title": "PSA Engine ECU Encode",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/psa-engine-ecu-encode-software"
+    },
+    {
+      "id": 561,
+      "title": "PSA ECU PIN",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/psa-ecu-pin-software"
+    },
+    {
+      "id": 566,
+      "title": "Opel PIN Repair",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/opel-pin-repair-software"
+    },
+    {
+      "id": 571,
+      "title": "Sirius 32 Immo Cleaner",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/sirius-32-immo-cleaner-software"
+    },
+    {
+      "id": 572,
+      "title": "ME17.9.7 VAZ Immo Remover",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/me17-9-7-vaz-immo-remover-software"
+    },
+    {
+      "id": 577,
+      "title": "DTC Remover 1.0",
+      "category": "ecu software",
+      "price_eur": 31.5,
+      "url": "https://www.davincideluxe.fr/shop/dtc-remover-1-0-software"
+    },
+    {
+      "id": 4,
+      "title": "Ecuvonix 3.2 — Technician Reference",
+      "category": "Ecuvonix",
+      "price_eur": 31.49,
+      "url": "https://www.davincideluxe.fr/shop/ecuvonix-3-2-study-pack-comprehensive-guide-for-immo-decodin"
+    },
+    {
+      "id": 299,
+      "title": "JLR SDD v167 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 31.49,
+      "url": "https://www.davincideluxe.fr/shop/jlr-sdd-v167-workflow-study-pack-installation-guide-and-reso"
+    },
+    {
+      "id": 111,
+      "title": "EasyStart — VAG Hotstart Problems Study Pack",
+      "category": "ECU Digital Pack",
+      "price_eur": 30.09,
+      "url": "https://www.davincideluxe.fr/shop/easystart-study-pack-solutions-for-vag-hotstart-problems"
+    },
+    {
+      "id": 150,
+      "title": "ECUDesk — Technician Reference",
+      "category": "ECUDesk",
+      "price_eur": 30.09,
+      "url": "https://www.davincideluxe.fr/shop/ecudesk-workflow-study-pack-comprehensive-guide-for-ecu-rema"
+    },
+    {
+      "id": 427,
+      "title": "EFI 173 Modules",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/efi-173-modules-software"
+    },
+    {
+      "id": 438,
+      "title": "Komatsu Time 1.2",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/komatsu-time-1-2-software"
+    },
+    {
+      "id": 451,
+      "title": "Ford Fiesta SIM210 1.1",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/ford-fiesta-sim210-1-1-software"
+    },
+    {
+      "id": 463,
+      "title": "Carsoftware 5.2",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/carsoftware-5-2-software"
+    },
+    {
+      "id": 465,
+      "title": "IMMO TOOL (2007-12-26)",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/immo-tool-2007-12-26-software"
+    },
+    {
+      "id": 473,
+      "title": "Visteon 2.3",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/visteon-2-3-software"
+    },
+    {
+      "id": 481,
+      "title": "ME7 EDC15 EEPROM Reader 1.00",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/me7-edc15-eeprom-reader-1-00-software"
+    },
+    {
+      "id": 486,
+      "title": "Radio Decoders Pro",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/radio-decoders-pro-software"
+    },
+    {
+      "id": 494,
+      "title": "Volta",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/volta-software"
+    },
+    {
+      "id": 507,
+      "title": "Renault IMMO Calculator",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/renault-immo-calculator-software"
+    },
+    {
+      "id": 509,
+      "title": "BMW Immo ID Editor 2.42",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/bmw-immo-id-editor-2-42-software"
+    },
+    {
+      "id": 513,
+      "title": "Map Analyzer v0.78 Beta",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/map-analyzer-v0-78-beta-software"
+    },
+    {
+      "id": 515,
+      "title": "Renault VIN to PIN",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/renault-vin-to-pin-software"
+    },
+    {
+      "id": 517,
+      "title": "Opel Dashboard Tool 0.8",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/opel-dashboard-tool-0-8-software"
+    },
+    {
+      "id": 523,
+      "title": "Fiat KM Calibration (Gopel)",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/fiat-km-calibration-gopel-software"
+    },
+    {
+      "id": 525,
+      "title": "Audi MM (Motometer) 1.1",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/audi-mm-motometer-1-1-software"
+    },
+    {
+      "id": 531,
+      "title": "Mercedes E-Klasse Facelift Cluster Tool",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/mercedes-e-klasse-facelift-cluster-tool-software"
+    },
+    {
+      "id": 537,
+      "title": "TachoCalc",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/tachocalc-software"
+    },
+    {
+      "id": 543,
+      "title": "Ford KM Tool",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/ford-km-tool-software"
+    },
+    {
+      "id": 547,
+      "title": "Dash Tool",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/dash-tool-software"
+    },
+    {
+      "id": 548,
+      "title": "Audi & VW Calculator 1.0",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/audi-vw-calculator-1-0-software"
+    },
+    {
+      "id": 552,
+      "title": "EDC16C34",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/edc16c34-software"
+    },
+    {
+      "id": 556,
+      "title": "Chrysler KM Changer 1.0",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/chrysler-km-changer-1-0-software"
+    },
+    {
+      "id": 562,
+      "title": "Renault PIN Code on Key Number",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/renault-pin-code-on-key-number-software"
+    },
+    {
+      "id": 569,
+      "title": "Peugeot Code Calculator",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/peugeot-code-calculator-software"
+    },
+    {
+      "id": 576,
+      "title": "ABS/ESP Calculator",
+      "category": "ecu software",
+      "price_eur": 28,
+      "url": "https://www.davincideluxe.fr/shop/abs-esp-calculator-software"
+    },
+    {
+      "id": 96,
+      "title": "HardCut Limiter & PopBang Solutions — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 25.89,
+      "url": "https://www.davincideluxe.fr/shop/hardcut-limiter-popbang-solutions-study-pack-version-1-3-for"
+    },
+    {
+      "id": 163,
+      "title": "ECU Repair Helper Guide — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 25.89,
+      "url": "https://www.davincideluxe.fr/shop/ecu-repair-knowledge-guide-comprehensive-manual-for-technici"
+    },
+    {
+      "id": 425,
+      "title": "MEUCCI 3.1",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/meucci-3-1-software"
+    },
+    {
+      "id": 441,
+      "title": "BMW ISN",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/bmw-isn-software"
+    },
+    {
+      "id": 453,
+      "title": "CrossTuner Studio 0.30 Beta",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/crosstuner-studio-0-30-beta-software"
+    },
+    {
+      "id": 503,
+      "title": "Ford 9.7.2",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/ford-9-7-2-software"
+    },
+    {
+      "id": 504,
+      "title": "Peugeot PIN Numbers Calculator",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/peugeot-pin-numbers-calculator-software"
+    },
+    {
+      "id": 512,
+      "title": "Audi TT Beetle Login Reader II",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/audi-tt-beetle-login-reader-ii-software"
+    },
+    {
+      "id": 529,
+      "title": "Ford KM Calculator 1.0",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/ford-km-calculator-1-0-software"
+    },
+    {
+      "id": 538,
+      "title": "Dashboard Calculator 1.0",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/dashboard-calculator-1-0-software"
+    },
+    {
+      "id": 541,
+      "title": "B-Chip",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/b-chip-software"
+    },
+    {
+      "id": 544,
+      "title": "Ford Focus Tool",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/ford-focus-tool-software"
+    },
+    {
+      "id": 550,
+      "title": "Ford KmCalc",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/ford-kmcalc-software"
+    },
+    {
+      "id": 573,
+      "title": "ECU Tool 00.05",
+      "category": "ecu software",
+      "price_eur": 24.5,
+      "url": "https://www.davincideluxe.fr/shop/ecu-tool-00-05-software"
+    },
+    {
+      "id": 3,
+      "title": "EGPT v1.4 — Technician Reference",
+      "category": "EGPT",
+      "price_eur": 21.69,
+      "url": "https://www.davincideluxe.fr/shop/egpt-v1-4-study-pack-comprehensive-guide-for-ecu-tuning-and"
+    },
+    {
+      "id": 12,
+      "title": "Citroen Service Box (DocBackup + Sedre) — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 21.69,
+      "url": "https://www.davincideluxe.fr/shop/citroen-service-box-study-pack-documentation-and-reference-m"
+    },
+    {
+      "id": 423,
+      "title": "Opel VIN Decoder",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/opel-vin-decoder-software"
+    },
+    {
+      "id": 488,
+      "title": "NavCoder 2.9.183",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/navcoder-2-9-183-software"
+    },
+    {
+      "id": 500,
+      "title": "Bosch ECU Number",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/bosch-ecu-number-software"
+    },
+    {
+      "id": 505,
+      "title": "BMW PRG Files Scanner 4",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/bmw-prg-files-scanner-4-software"
+    },
+    {
+      "id": 519,
+      "title": "MASK Motorola Reader",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/mask-motorola-reader-software"
+    },
+    {
+      "id": 521,
+      "title": "Citroen Saxo KM Calibration 1.0",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/citroen-saxo-km-calibration-1-0-software"
+    },
+    {
+      "id": 526,
+      "title": "Skoda Fabia C86 Cluster Tool",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/skoda-fabia-c86-cluster-tool-software"
+    },
+    {
+      "id": 549,
+      "title": "ECUCALC V2",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/ecucalc-v2-software"
+    },
+    {
+      "id": 554,
+      "title": "Codigo Radio",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/codigo-radio-software"
+    },
+    {
+      "id": 557,
+      "title": "Nissan 2003",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/nissan-2003-software"
+    },
+    {
+      "id": 559,
+      "title": "Ford Radio Code",
+      "category": "ecu software",
+      "price_eur": 21,
+      "url": "https://www.davincideluxe.fr/shop/ford-radio-code-software"
+    },
+    {
+      "id": 18,
+      "title": "Opel OP-COM Multi 2021 — Technician Reference",
+      "category": "Opel OP-COM",
+      "price_eur": 20.99,
+      "url": "https://www.davincideluxe.fr/shop/opel-op-com-multi-2021-study-pack-diagnostic-software-refere"
+    },
+    {
+      "id": 26,
+      "title": "Delphi Autocom 2021.11 — Technician Reference",
+      "category": "Delphi Autocom",
+      "price_eur": 20.99,
+      "url": "https://www.davincideluxe.fr/shop/delphi-autocom-2021-11-study-pack-comprehensive-guide-for-di"
+    },
+    {
+      "id": 45,
+      "title": "WinOLS 4.7 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 20.99,
+      "url": "https://www.davincideluxe.fr/shop/winols-workflow-study-pack-comprehensive-guide-for-ecu-tunin"
+    },
+    {
+      "id": 165,
+      "title": "VAG EEPROM Programmer v1.19 — Technician Reference",
+      "category": "VAG EEPROM Programmer",
+      "price_eur": 20.99,
+      "url": "https://www.davincideluxe.fr/shop/vag-eeprom-programming-study-pack-reference-guide-for-vag-ve"
+    },
+    {
+      "id": 173,
+      "title": "VCDS 24.7.1 — Technician Reference",
+      "category": "VCDS",
+      "price_eur": 20.99,
+      "url": "https://www.davincideluxe.fr/shop/vcds-24-7-1-workflow-study-pack-comprehensive-guide-for-vw-g"
+    },
+    {
+      "id": 436,
+      "title": "Audi Aisin Navigation RNS-E Unlock CD",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/audi-aisin-navigation-rns-e-unlock-cd-software"
+    },
+    {
+      "id": 460,
+      "title": "E2P HexEditor 1.1.0.0 (Demo)",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/e2p-hexeditor-1-1-0-0-demo-software"
+    },
+    {
+      "id": 496,
+      "title": "DRC Calc",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/drc-calc-software"
+    },
+    {
+      "id": 510,
+      "title": "Opel Calculator 1.0",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/opel-calculator-1-0-software"
+    },
+    {
+      "id": 516,
+      "title": "Renault Clio 2002 CodeKey",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/renault-clio-2002-codekey-software"
+    },
+    {
+      "id": 545,
+      "title": "FIAT Palio Calc",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/fiat-palio-calc-software"
+    },
+    {
+      "id": 563,
+      "title": "Citroen Nemo 611134500 Clear",
+      "category": "ecu software",
+      "price_eur": 17.5,
+      "url": "https://www.davincideluxe.fr/shop/citroen-nemo-611134500-clear-software"
+    },
+    {
+      "id": 68,
+      "title": "IMMOFF17 Software — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 14.69,
+      "url": "https://www.davincideluxe.fr/shop/immoff17-workflow-study-pack-reference-guide-for-eeprom-and"
+    },
+    {
+      "id": 534,
+      "title": "Grundig / Philips Radio Code Calculator",
+      "category": "ecu software",
+      "price_eur": 14,
+      "url": "https://www.davincideluxe.fr/shop/grundig-philips-radio-code-calculator-software"
+    },
+    {
+      "id": 546,
+      "title": "Opel Meriva 1.3 75cv",
+      "category": "ecu software",
+      "price_eur": 14,
+      "url": "https://www.davincideluxe.fr/shop/opel-meriva-1-3-75cv-software"
+    },
+    {
+      "id": 553,
+      "title": "Compare Files v1.20",
+      "category": "ecu software",
+      "price_eur": 14,
+      "url": "https://www.davincideluxe.fr/shop/compare-files-v1-20-software"
+    },
+    {
+      "id": 568,
+      "title": "Mini Calc",
+      "category": "ecu software",
+      "price_eur": 14,
+      "url": "https://www.davincideluxe.fr/shop/mini-calc-software"
+    },
+    {
+      "id": 310,
+      "title": "Ksuite 2.80 — Technician Reference",
+      "category": "ECU Digital Pack",
+      "price_eur": 4.19,
+      "url": "https://www.davincideluxe.fr/shop/ksuite-2-80-ecu-programming-study-pack-documentation-for-kes"
+    }
+  ]
 }
