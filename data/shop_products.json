@@ -9,7 +9,7 @@
     "https://www.davincideluxe.it/shop",
     "https://www.aesoftech.eu/shop"
   ],
-  "count": 347,
+  "count": 395,
   "products": [
     {
       "id": 350,
@@ -40,6 +40,13 @@
       "url": "https://www.davincideluxe.fr/shop/european-workshop-virgin-originals-mega-bundle"
     },
     {
+      "id": 654,
+      "title": "Supercar & Exotic V8 / V10 / V12 Factory DAMOS & Shift Simulation Vault (Ferrari, Lamborghini, McLaren, Bentley, Maserati & Audi R8)",
+      "category": "ferrari damos",
+      "price_eur": 259,
+      "url": "https://www.davincideluxe.fr/shop/supercar-exotic-v8-v10-v12-ferrari-lamborghini-mclaren-bentley-maserati-r8-damos-vault"
+    },
+    {
       "id": 349,
       "title": "BMW DAMOS Master Pack — DAMOS, A2L & OLS Files for BMW & Mini ECUs",
       "category": "bmw damos",
@@ -61,6 +68,13 @@
       "url": "https://www.davincideluxe.fr/shop/24v-trucks-bus-agro-complete-mega-bundle"
     },
     {
+      "id": 643,
+      "title": "VAG 2.0 TFSI EA888 Gen3 / Gen3B / PHEV MG1CS001 & Simos 18.1–19.6 / 22 + ETK/ODX Factory DAMOS Vault",
+      "category": "vag damos",
+      "price_eur": 239,
+      "url": "https://www.davincideluxe.fr/shop/vag-20-tfsi-ea888-gen3-mg1cs001-simos18-simos19-simos22-damos-vault"
+    },
+    {
       "id": 399,
       "title": "NYO 4.0 2016",
       "category": "ecu software",
@@ -80,6 +94,13 @@
       "category": "tcu",
       "price_eur": 249,
       "url": "https://www.davincideluxe.fr/shop/vag-dsg-stronic-dq200-dq250-dq381-dq500-dl501-master-pack"
+    },
+    {
+      "id": 644,
+      "title": "European Euro 5 & Euro 6 Heavy Trucks Factory DAMOS & Calibration Vault (DAF, MAN, Scania, Volvo, Iveco & Actros)",
+      "category": "truck damos",
+      "price_eur": 249,
+      "url": "https://www.davincideluxe.fr/shop/european-euro5-euro6-heavy-trucks-daf-man-scania-volvo-iveco-actros-damos-vault"
     },
     {
       "id": 395,
@@ -110,6 +131,41 @@
       "url": "https://www.davincideluxe.fr/shop/bosch-continental-oem-funktionsrahmen-engineering-vault"
     },
     {
+      "id": 645,
+      "title": "Heavy Forestry, Cranes, Excavators & Agricultural Harvesters ECU DAMOS Vault (John Deere, Fendt, JCB, Komatsu, Hitachi, Case IH & New Holland)",
+      "category": "agri damos",
+      "price_eur": 249,
+      "url": "https://www.davincideluxe.fr/shop/heavy-forestry-cranes-mining-agri-harvesters-deere-fendt-jcb-komatsu-damos-vault"
+    },
+    {
+      "id": 655,
+      "title": "2025 Master ECU Tuning, EGR/DPF/IMMO Off, RM Chiptuning & Original Firmware Mega-Vault (36,300+ Files · 31.1 GB)",
+      "category": "rm chiptuning",
+      "price_eur": 279,
+      "url": "https://www.davincideluxe.fr/shop/2025-master-ecu-tuning-egr-dpf-immo-rm-chiptuning-firmware-vault"
+    },
+    {
+      "id": 683,
+      "title": "24V Heavy Trucks, Buses & Agri 10,603 WinOLS .OLS Tuned Projects Master Vault + Excel Search Index (5.88 GB)",
+      "category": "winols",
+      "price_eur": 299,
+      "url": "https://www.davincideluxe.fr/shop/24v-heavy-trucks-buses-agri-10603-winols-ols-projects-vault"
+    },
+    {
+      "id": 686,
+      "title": "PREE Chiptuning Official Bosch MDG1 (MD1 & MG1) 6,600+ WinOLS .OLS Master Database + Excel Index (Password-Free)",
+      "category": "winols",
+      "price_eur": 299,
+      "url": "https://www.davincideluxe.fr/shop/pree-chiptuning-bosch-mdg1-md1-mg1-winols-ols-reseller-vault"
+    },
+    {
+      "id": 689,
+      "title": "DaVinci Chiptronics Edition — 40.2 GB WinOLS .OLS Dyno Calibration Master Vault + 2.6 MB Excel Index",
+      "category": "winols",
+      "price_eur": 349,
+      "url": "https://www.davincideluxe.fr/shop/davinci-chiptronics-dyno-winols-ols-master-vault"
+    },
+    {
       "id": 452,
       "title": "CarProg 4.85",
       "category": "ecu software",
@@ -136,6 +192,20 @@
       "category": "excavator",
       "price_eur": 249,
       "url": "https://www.davincideluxe.fr/shop/excavators-telehandlers-kubota-deutz-merlo-offhighway-pack"
+    },
+    {
+      "id": 646,
+      "title": "BMW & Rolls-Royce V12 MG1CS003 (N74) + MSD80 / MSD85 / MSD87 / MSV90 + EDC17C50 / C56 Factory DAMOS Vault",
+      "category": "bmw damos",
+      "price_eur": 229,
+      "url": "https://www.davincideluxe.fr/shop/bmw-rolls-royce-v12-mg1cs003-n74-msd80-msd85-msd87-msv90-edc17c50-damos-vault"
+    },
+    {
+      "id": 688,
+      "title": "Tunercenter Official WinOLS .OLS Reseller Calibration Projects Vault + Excel Master Index (14.7 GB)",
+      "category": "winols",
+      "price_eur": 279,
+      "url": "https://www.davincideluxe.fr/shop/tunercenter-winols-ols-evc-reseller-projects-database"
     },
     {
       "id": 351,
@@ -166,6 +236,13 @@
       "url": "https://www.davincideluxe.fr/shop/american-trucks-cummins-detroit-paccar-kenworth-peterbilt-ram-vault"
     },
     {
+      "id": 647,
+      "title": "Mercedes-Benz & AMG V8 / V12 (CLA45 / CL65 / ME9.7 / ME2.7.1) + CRD3 / EDC17CP46 & Official ASAP2 Factory DAMOS Vault",
+      "category": "mercedes damos",
+      "price_eur": 219,
+      "url": "https://www.davincideluxe.fr/shop/mercedes-amg-v8-v12-cla45-cl65-me97-crd3-edc17cp46-asap2-damos-vault"
+    },
+    {
       "id": 592,
       "title": "25-Brand Multi-Make Factory DAMOS, A2L, .OLS & .KP Master Pack (544 MB — Cars, Supercars & Trucks)",
       "category": "damos",
@@ -178,6 +255,20 @@
       "category": "b2b api",
       "price_eur": 390,
       "url": "https://www.davincideluxe.fr/shop/davinci-woocommerce-b2b-chiptuning-portal-plugin"
+    },
+    {
+      "id": 648,
+      "title": "PSA / Stellantis & Renault Modern Petrol & Euro 6 Diesel Factory DAMOS Vault (Valeo VD46, DCM6.2, EDC17C60, MED17.4.4, SID310)",
+      "category": "psa damos",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/psa-stellantis-renault-valeo-vd46-dcm62-edc17c60-med1744-sid310-damos-vault"
+    },
+    {
+      "id": 685,
+      "title": "Layton Remaps Official 11,846 WinOLS .OLS Reseller Tuned Projects Vault + Excel Master Index (3.15 GB)",
+      "category": "winols",
+      "price_eur": 229,
+      "url": "https://www.davincideluxe.fr/shop/layton-remaps-winols-11800-ols-evc-reseller-projects-vault"
     },
     {
       "id": 398,
@@ -201,6 +292,27 @@
       "url": "https://www.davincideluxe.fr/shop/master-locksmith-immo-airbag-eeprom-mega-bundle"
     },
     {
+      "id": 649,
+      "title": "Hyundai & Kia Bosch / Kefico ME17.9.11 / ME17.9.12 / ME17.9.21 & Continental SIM2K Master Calibration & DAMOS Vault",
+      "category": "hyundai damos",
+      "price_eur": 169,
+      "url": "https://www.davincideluxe.fr/shop/hyundai-kia-bosch-kefico-me17-9-11-me17-9-21-sim2k-damos-calibration-vault"
+    },
+    {
+      "id": 650,
+      "title": "Alfa Romeo Giulia / Stelvio (EDC17C69 & MM8GMK), Fiat 500 Abarth (MED17.3.0) & Ducato (MJD8 / MJD9DF HEX+A2L) Factory DAMOS Vault",
+      "category": "alfa romeo damos",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/alfa-romeo-giulia-stelvio-edc17c69-mm8gmk-abarth-med1730-ducato-mjd9df-damos-vault"
+    },
+    {
+      "id": 677,
+      "title": "BMW G-Series B48 / B58 (Gen 1 & Gen 2 TU Supra/M340i) & S58 (G80 M3 / G82 M4) TunerPro .XDF + Factory .A2L Vault",
+      "category": "damos",
+      "price_eur": 229,
+      "url": "https://www.davincideluxe.fr/shop/bmw-b48-b58-gen1-gen2-s58-tunerpro-xdf-a2l-master-vault"
+    },
+    {
       "id": 635,
       "title": "VAG 3.0 V6 TDI & 4.0 V8 TDI EVO Factory DAMOS & A2L Master Pack (Bosch MD1CP004 · MD1CP014 · EDC17CP44 · EDC17CP54)",
       "category": "md1cp004",
@@ -208,11 +320,39 @@
       "url": "https://www.davincideluxe.fr/shop/vag-30-v6-tdi-40-v8-tdi-evo-md1cp004-md1cp014-damos-pack"
     },
     {
+      "id": 651,
+      "title": "JLR Range Rover / Jaguar SVR 5.0 V8 SC (MED17.8.31/32) & Ingenium + Ford Focus RS / Transit DCU-102 & Mazda Skyactiv-D Factory Vault",
+      "category": "jlr damos",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/jlr-range-rover-svr-med17-8-31-ford-focus-rs-transit-mazda-skyactiv-damos-vault"
+    },
+    {
       "id": 636,
       "title": "Porsche DME8.4 / DME8.6 / DME8.x & Audi RS4/RS5/Cayenne EA839 2.9/3.0 V6 BiTurbo (MG1CS002) Factory DAMOS Vault",
       "category": "porsche",
       "price_eur": 229,
       "url": "https://www.davincideluxe.fr/shop/porsche-dme8-4-dme8-6-ea839-v6-biturbo-mg1cs002-damos-pack"
+    },
+    {
+      "id": 652,
+      "title": "VAG Motorsport & Classic Turbo Master DAMOS Vault (ME7.1.1 RS4/RS6, ME7.5 1.8T, MED9.1 TFSI, SIMOS 8, MM7GV & ZF 6HP28A)",
+      "category": "me7.5 damos",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/vag-motorsport-classic-turbo-me711-rs4-rs6-me75-med91-simos8-6hp28a-damos-vault"
+    },
+    {
+      "id": 679,
+      "title": "BMW MHD N54 / N55 / S55 / B58 (E-Series & F/G-Series) Complete Calibration Maps & TunerPro .XDF Vault (1.6 GB)",
+      "category": "bmw",
+      "price_eur": 199,
+      "url": "https://www.davincideluxe.fr/shop/bmw-mhd-n54-n55-s55-b58-calibration-maps-xdf-vault"
+    },
+    {
+      "id": 684,
+      "title": "Master OBD Virtual Read (VR) Factory Stock Files Vault — KESS3 · Autotuner · Flex · PCMFlash (6,153 Direct OBD Reads · 6.1 GB)",
+      "category": "virtual-read",
+      "price_eur": 199,
+      "url": "https://www.davincideluxe.fr/shop/master-kess3-autotuner-flex-pcmflash-virtual-read-vr-stock-vault"
     },
     {
       "id": 606,
@@ -229,6 +369,27 @@
       "url": "https://www.davincideluxe.fr/shop/audi-rs3-ttrs-25tfsi-daza-med17-1-62-dq500-dl800-master-pack"
     },
     {
+      "id": 653,
+      "title": "JDM Japanese Petrol & Boxer Turbo Master Calibration & DAMOS Vault (Toyota/Lexus Denso CAN, Subaru, Nissan, Honda & Suzuki)",
+      "category": "jdm damos",
+      "price_eur": 199,
+      "url": "https://www.davincideluxe.fr/shop/jdm-japanese-petrol-boxer-turbo-toyota-denso-subaru-nissan-honda-damos-vault"
+    },
+    {
+      "id": 656,
+      "title": "DaVinci Ziptuning Edition — 3,169 Verified Dyno WinOLS .OLS Calibration Projects Vault (11.9 GB)",
+      "category": "winols projects",
+      "price_eur": 229,
+      "url": "https://www.davincideluxe.fr/shop/ziptuning-winols-ols-projects-master-vault-3169-dyno-projects"
+    },
+    {
+      "id": 680,
+      "title": "B&C Consulting Official Motorsport ORI + Stage 1/2 Tuning Database + Full 11 MB Excel Master Index",
+      "category": "chiptuning",
+      "price_eur": 199,
+      "url": "https://www.davincideluxe.fr/shop/bc-consulting-motorsport-ori-stage1-tuning-database-vault"
+    },
+    {
       "id": 607,
       "title": "24V Euro 6 Heavy-Duty Trucks 100% Virgin Original ECU BIN Vault Vol. 2 (Scania · Volvo · MAN · DAF · Actros · Iveco)",
       "category": "virgin originals",
@@ -241,6 +402,20 @@
       "category": "bmw",
       "price_eur": 189,
       "url": "https://www.davincideluxe.fr/shop/bmw-m-performance-mevd17-2-x-n55-s55-s63-factory-damos-pack"
+    },
+    {
+      "id": 657,
+      "title": "DaVinci Pro Dyno Mix — 11,845 WinOLS .OLS Stage 1/2 & Emissions Calibration Vault (7.41 GB)",
+      "category": "davinci pro ols",
+      "price_eur": 219,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-dyno-mix-11845-winols-ols-calibration-projects-vault"
+    },
+    {
+      "id": 678,
+      "title": "ZF 6HP (6HP19 · 6HP21 · 6HP26 · 6HP28) xHP All-Stages TCU Gearbox Calibration + TunerPro .XDF Master Pack",
+      "category": "tcu",
+      "price_eur": 179,
+      "url": "https://www.davincideluxe.fr/shop/zf-6hp-6hp19-6hp21-6hp26-6hp28-xhp-tcu-xdf-master-pack"
     },
     {
       "id": 608,
@@ -257,6 +432,20 @@
       "url": "https://www.davincideluxe.fr/shop/audi-dl382-0ck-0cl-stronic-zf-al552-8hp65a-tcu-damos-pack"
     },
     {
+      "id": 658,
+      "title": "FileDatabase Vol. 1 — 13,195 WinOLS .OLS Calibration & Stage 1/2 Projects Vault (11.5 GB)",
+      "category": "filedatabase ols",
+      "price_eur": 239,
+      "url": "https://www.davincideluxe.fr/shop/filedatabase-vol-1-13195-winols-ols-calibration-projects-vault"
+    },
+    {
+      "id": 674,
+      "title": "VAG Official .ODX / .FRF / .SGO Flash Container Generator, Converter & Diagra Engineering Software Suite",
+      "category": "software",
+      "price_eur": 199,
+      "url": "https://www.davincideluxe.fr/shop/vag-odx-frf-sgo-container-generator-converter-suite"
+    },
+    {
       "id": 609,
       "title": "PSA (Peugeot · Citroën · DS · Opel / Vauxhall) 100% Virgin Original ECU Stock BIN Master Pack",
       "category": "virgin originals",
@@ -269,6 +458,20 @@
       "category": "toyota",
       "price_eur": 169,
       "url": "https://www.davincideluxe.fr/shop/toyota-land-cruiser-hilux-prado-28gd-30d4d-denso-calibration-pack"
+    },
+    {
+      "id": 659,
+      "title": "FileDatabase Vol. 2 — 15,095 WinOLS .OLS Calibration & Motorsport Projects Vault (16.1 GB)",
+      "category": "filedatabase vol 2",
+      "price_eur": 259,
+      "url": "https://www.davincideluxe.fr/shop/filedatabase-vol-2-15095-winols-ols-calibration-projects-vault"
+    },
+    {
+      "id": 675,
+      "title": "Continental SIMOS 12 / 16 / 18 / 19 / 22 OEM INCA ProF ETK Flashing Configs & EA890 SC4 Engineering Suite",
+      "category": "software",
+      "price_eur": 179,
+      "url": "https://www.davincideluxe.fr/shop/continental-simos-16-18-19-22-inca-prof-flashing-suite"
     },
     {
       "id": 610,
@@ -285,11 +488,32 @@
       "url": "https://www.davincideluxe.fr/shop/chinese-cars-mg-chery-omoda-geely-maxus-jac-virgin-originals-pack"
     },
     {
+      "id": 660,
+      "title": "FileDatabase Vol. 3 — 4,355 Late-Gen WinOLS .OLS Calibration Projects Vault (7.10 GB)",
+      "category": "filedatabase vol 3",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/filedatabase-vol-3-4355-winols-ols-calibration-projects-vault"
+    },
+    {
+      "id": 687,
+      "title": "HaynesPro WorkshopData 2018 Full Multilingual Automotive Electronics, Wiring Diagrams & Repair Suite",
+      "category": "haynespro",
+      "price_eur": 99,
+      "url": "https://www.davincideluxe.fr/shop/haynespro-workshopdata-2018-multilingual-electronics-repair-suite"
+    },
+    {
       "id": 611,
       "title": "FCA (Fiat · Alfa Romeo · Jeep · Chrysler · Iveco Daily) 100% Virgin Original ECU Stock BIN Master Pack",
       "category": "virgin originals",
       "price_eur": 119,
       "url": "https://www.davincideluxe.fr/shop/fca-fiat-alfa-jeep-iveco-virgin-originals-master-pack"
+    },
+    {
+      "id": 661,
+      "title": "DaVinci Pro Calibration Series Vol. 1 — 4,010 WinOLS .OLS Projects Vault (7.61 GB)",
+      "category": "davinci pro vol 1",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-1-4010-winols-ols-vault"
     },
     {
       "id": 612,
@@ -299,11 +523,32 @@
       "url": "https://www.davincideluxe.fr/shop/renault-dacia-nissan-virgin-original-bin-master-pack"
     },
     {
+      "id": 662,
+      "title": "DaVinci Pro Calibration Series Vol. 4 — 5,105 Large-Flash WinOLS .OLS Projects Vault (13.5 GB)",
+      "category": "davinci pro vol 4",
+      "price_eur": 229,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-4-5105-winols-ols-vault"
+    },
+    {
+      "id": 682,
+      "title": "DaVinci AutoDTC Edition — Verified Multi-Brand 100% Virgin OEM Stock .BIN Master Vault (3.75 GB)",
+      "category": "ori",
+      "price_eur": 159,
+      "url": "https://www.davincideluxe.fr/shop/davinci-autodtc-verified-oem-stock-bin-master-vault"
+    },
+    {
       "id": 613,
       "title": "Toyota · Lexus · Honda · Suzuki · Subaru & Mitsubishi Japanese 100% Virgin Original Stock BIN Pack",
       "category": "virgin originals",
       "price_eur": 119,
       "url": "https://www.davincideluxe.fr/shop/japanese-toyota-lexus-honda-suzuki-virgin-originals-pack"
+    },
+    {
+      "id": 663,
+      "title": "DaVinci Pro Calibration Series Vol. 5 — 2,685 Modern 4MB–8MB Euro 6 WinOLS .OLS Vault (11.0 GB)",
+      "category": "davinci pro vol 5",
+      "price_eur": 209,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-5-2685-modern-ecu-winols-ols-vault"
     },
     {
       "id": 400,
@@ -327,6 +572,13 @@
       "url": "https://www.davincideluxe.fr/shop/supercars-porsche-ferrari-lamborghini-mclaren-originals-vault"
     },
     {
+      "id": 664,
+      "title": "45-Brand Factory DAMOS, A2L & Equipment Calibration Master Archive (5.78 GB Unencrypted)",
+      "category": "damos 2023",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/2023-multibrand-45-oem-factory-damos-a2l-extracted-master-vault"
+    },
+    {
       "id": 353,
       "title": "Ford DAMOS Master Pack — DAMOS, A2L & OLS Files",
       "category": "ford damos",
@@ -339,6 +591,13 @@
       "category": "damos",
       "price_eur": 79,
       "url": "https://www.davincideluxe.fr/shop/bmw-msd81-n53-n54-factory-damos-a2l-pack"
+    },
+    {
+      "id": 665,
+      "title": "63-in-1 Workshop Suite: 12x EGR/DPF Off + 30x IMMO/PIN + 10x Airbag Crash + 11x Dash Tools & Files (1.98 GB)",
+      "category": "immo off software",
+      "price_eur": 119,
+      "url": "https://www.davincideluxe.fr/shop/63-in-1-egr-dpf-immo-off-airbag-crash-dash-mileage-workshop-suite"
     },
     {
       "id": 421,
@@ -362,6 +621,20 @@
       "url": "https://www.davincideluxe.fr/shop/euro6-adblue-dpf-egr-nox-matched-ori-mod-study-vault"
     },
     {
+      "id": 666,
+      "title": "DaVinci Fasttuning Edition — 10,000+ WinOLS .OLS Dyno Calibration Projects Master Vault (11.0 GB)",
+      "category": "fasttuning ols",
+      "price_eur": 239,
+      "url": "https://www.davincideluxe.fr/shop/davinci-fasttuning-10000-winols-ols-calibration-master-vault"
+    },
+    {
+      "id": 681,
+      "title": "DaVinci Classic & Modern Multi-Brand OEM Original ECU Stock Files Master Archive (1.81 GB Unencrypted)",
+      "category": "ori",
+      "price_eur": 129,
+      "url": "https://www.davincideluxe.fr/shop/davinci-classic-modern-oem-original-ecu-files-archive"
+    },
+    {
       "id": 23,
       "title": "K-TAG 7.020 / K-Suite 2.25 Master Bench, JTAG, BDM & Bootloader ECU Suite (2.58 GB)",
       "category": "ktag",
@@ -381,6 +654,13 @@
       "category": "ori mod",
       "price_eur": 139,
       "url": "https://www.davincideluxe.fr/shop/pops-bangs-crackle-gpf-antilag-matched-ori-mod-pack"
+    },
+    {
+      "id": 667,
+      "title": "DaVinci Motorsport Dyno Pack A — 5,180 WinOLS .OLS Calibration Projects Vault (4.28 GB)",
+      "category": "motorsport dyno ols",
+      "price_eur": 169,
+      "url": "https://www.davincideluxe.fr/shop/davinci-motorsport-dyno-pack-a-5180-winols-ols-projects-vault"
     },
     {
       "id": 402,
@@ -404,6 +684,13 @@
       "url": "https://www.davincideluxe.fr/shop/marine-jetski-atv-motorcycle-ecu-damos-originals-vault"
     },
     {
+      "id": 668,
+      "title": "DaVinci Motorsport Dyno Pack B — 4,190 WinOLS .OLS Calibration Projects Vault (4.51 GB)",
+      "category": "motorsport dyno pack b",
+      "price_eur": 169,
+      "url": "https://www.davincideluxe.fr/shop/davinci-motorsport-dyno-pack-b-4190-winols-ols-projects-vault"
+    },
+    {
       "id": 579,
       "title": "Audi 100% Virgin Original ECU Stock BIN Master Pack (3,893 Files)",
       "category": "virgin originals",
@@ -416,6 +703,20 @@
       "category": "diagnostics",
       "price_eur": 129,
       "url": "https://www.davincideluxe.fr/shop/odis-service-7-2-1-odis-engineering-12-1-vag-mega-suite"
+    },
+    {
+      "id": 669,
+      "title": "DaVinci Motorsport Dyno Pack C — 5,825 WinOLS .OLS Calibration Projects Vault (4.70 GB)",
+      "category": "motorsport dyno pack c",
+      "price_eur": 179,
+      "url": "https://www.davincideluxe.fr/shop/davinci-motorsport-dyno-pack-c-5825-winols-ols-projects-vault"
+    },
+    {
+      "id": 676,
+      "title": "WinOLS .winolsskript Automation Scripts, Diesel EOI/Duration/Timing Calculators & Map Extender Toolkit",
+      "category": "software",
+      "price_eur": 99,
+      "url": "https://www.davincideluxe.fr/shop/winols-automation-scripts-diesel-eoi-timing-calculator-toolkit"
     },
     {
       "id": 267,
@@ -432,6 +733,13 @@
       "url": "https://www.davincideluxe.fr/shop/mercedes-virgin-original-ecu-bin-master-pack"
     },
     {
+      "id": 670,
+      "title": "DaVinci Motorsport Dyno Pack D — 5,500 WinOLS .OLS Calibration Projects Vault (4.24 GB)",
+      "category": "motorsport dyno pack d",
+      "price_eur": 179,
+      "url": "https://www.davincideluxe.fr/shop/davinci-motorsport-dyno-pack-d-5500-winols-ols-projects-vault"
+    },
+    {
       "id": 581,
       "title": "SEAT & Cupra 100% Virgin Original ECU Stock BIN Master Pack (982 Files)",
       "category": "virgin originals",
@@ -444,6 +752,13 @@
       "category": "diagnostics",
       "price_eur": 89,
       "url": "https://www.davincideluxe.fr/shop/subaru-select-monitor-ssm4-diagnostic-suite"
+    },
+    {
+      "id": 671,
+      "title": "DaVinci Pro Calibration Series Vol. 2 — 4,235 WinOLS .OLS Projects Vault (2.15 GB)",
+      "category": "davinci pro vol 2",
+      "price_eur": 139,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-2-4235-winols-ols-vault"
     },
     {
       "id": 440,
@@ -467,6 +782,13 @@
       "url": "https://www.davincideluxe.fr/shop/cis-lada-vesta-uaz-gaz-itelma-m86-me17-9-71-calibration-vault"
     },
     {
+      "id": 672,
+      "title": "DaVinci Pro Calibration Series Vol. 3 — 4,190 WinOLS .OLS Projects Vault (4.30 GB)",
+      "category": "davinci pro vol 3",
+      "price_eur": 169,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-3-4190-winols-ols-vault"
+    },
+    {
       "id": 583,
       "title": "Kia 100% Virgin Original ECU Stock BIN Master Pack (206 Files)",
       "category": "virgin originals",
@@ -479,6 +801,13 @@
       "category": "ecu-editor",
       "price_eur": 79,
       "url": "https://www.davincideluxe.fr/shop/efilive-v8-gm-duramax-cummins-calibration-suite"
+    },
+    {
+      "id": 673,
+      "title": "DaVinci Pro Calibration Series Vol. 6 & Vol. 7 Combo — 4,120 WinOLS .OLS Projects Vault (1.77 GB)",
+      "category": "davinci pro vol 6",
+      "price_eur": 139,
+      "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-6-vol-7-4120-winols-ols-combo-vault"
     },
     {
       "id": 214,
@@ -584,6 +913,13 @@
       "category": "hwid",
       "price_eur": 29,
       "url": "https://www.davincideluxe.fr/shop/instant-hwid-pc-transfer-reset-pass"
+    },
+    {
+      "id": 7,
+      "title": "Delphi & Autocom Cars & Trucks 2020.23 Full Workshop Diagnostic Suite (1.95 GB)",
+      "category": "autocom 2020.23",
+      "price_eur": 39.99,
+      "url": "https://www.davincideluxe.fr/shop/delphi-autocom-cars-trucks-2020-23-full-diagnostic-release"
     },
     {
       "id": 352,
