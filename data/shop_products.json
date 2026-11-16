@@ -9,7 +9,7 @@
     "https://www.davincideluxe.it/shop",
     "https://www.aesoftech.eu/shop"
   ],
-  "count": 395,
+  "count": 428,
   "products": [
     {
       "id": 350,
@@ -24,6 +24,13 @@
       "category": "mega bundle",
       "price_eur": 649,
       "url": "https://www.davincideluxe.fr/shop/ultimate-calibrator-gold-ols-e85-damos-bundle"
+    },
+    {
+      "id": 707,
+      "title": "DaVinci Sovereign 8TB Global OEM DAMOS, A2L, WinOLS .OLS & Factory Calibration Enterprise Master Vault (Complete 8,000+ GB Unpacked Archive + 27 Master Search Indexes)",
+      "category": "8tb",
+      "price_eur": 4990,
+      "url": "https://www.davincideluxe.fr/shop/davinci-sovereign-8tb-global-oem-damos-winols-ols-enterprise-master-vault"
     },
     {
       "id": 586,
@@ -45,6 +52,13 @@
       "category": "ferrari damos",
       "price_eur": 259,
       "url": "https://www.davincideluxe.fr/shop/supercar-exotic-v8-v10-v12-ferrari-lamborghini-mclaren-bentley-maserati-r8-damos-vault"
+    },
+    {
+      "id": 705,
+      "title": "DaVinci Global Agri, Heavy Trucks, Motorcycles & Passenger Cars 250 GB Master Calibration Vault + 25 MB Excel Index",
+      "category": "winols",
+      "price_eur": 699,
+      "url": "https://www.davincideluxe.fr/shop/davinci-global-agri-trucks-motorcycles-cars-250gb-master-vault"
     },
     {
       "id": 349,
@@ -75,6 +89,20 @@
       "url": "https://www.davincideluxe.fr/shop/vag-20-tfsi-ea888-gen3-mg1cs001-simos18-simos19-simos22-damos-vault"
     },
     {
+      "id": 703,
+      "title": "DaVinci NordReprogram Edition — 120.5 GB WinOLS .OLS Master Calibration Vault + 14.8 MB Excel Index",
+      "category": "winols",
+      "price_eur": 499,
+      "url": "https://www.davincideluxe.fr/shop/davinci-nordreprogram-120gb-winols-ols-master-vault"
+    },
+    {
+      "id": 706,
+      "title": "DaVinci Series V Master Edition — 160.3 GB WinOLS .OLS Calibration Mega-Vault + 14.5 MB Excel Index",
+      "category": "winols",
+      "price_eur": 549,
+      "url": "https://www.davincideluxe.fr/shop/davinci-series-v-160gb-winols-ols-master-vault"
+    },
+    {
       "id": 399,
       "title": "NYO 4.0 2016",
       "category": "ecu software",
@@ -101,6 +129,20 @@
       "category": "truck damos",
       "price_eur": 249,
       "url": "https://www.davincideluxe.fr/shop/european-euro5-euro6-heavy-trucks-daf-man-scania-volvo-iveco-actros-damos-vault"
+    },
+    {
+      "id": 690,
+      "title": "DaVinci NextStage Project DB-II — 50.5 GB WinOLS .OLS Master Calibration Vault + 9.7 MB Excel Index",
+      "category": "winols",
+      "price_eur": 379,
+      "url": "https://www.davincideluxe.fr/shop/davinci-nextstage-project-db2-winols-ols-master-vault"
+    },
+    {
+      "id": 691,
+      "title": "DaVinci 24-7 Complete Edition — 95.5 GB Named WinOLS .OLS Master Calibration Vault + 15 MB Excel Index",
+      "category": "winols",
+      "price_eur": 449,
+      "url": "https://www.davincideluxe.fr/shop/davinci-24-7-complete-95gb-winols-ols-master-vault"
     },
     {
       "id": 395,
@@ -243,6 +285,20 @@
       "url": "https://www.davincideluxe.fr/shop/mercedes-amg-v8-v12-cla45-cl65-me97-crd3-edc17cp46-asap2-damos-vault"
     },
     {
+      "id": 704,
+      "title": "Porsche PIWIS III v41.500 + v38.250 Dual-System Windows 10 VMware Ready Dealer & Engineering Workstation (62.09 GB)",
+      "category": "porsche",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/porsche-piwis-iii-v41-500-v38-250-dual-win10-vmware-master-image"
+    },
+    {
+      "id": 75,
+      "title": "Doosan / Develon Heavy Equipment Diagnostic Tool OH6.0 + Scan DCU 0.2.8 Master Off-Highway Suite (69.79 GB)",
+      "category": "doosan",
+      "price_eur": 189,
+      "url": "https://www.davincideluxe.fr/shop/doosan-develon-oh6-0-scan-dcu-heavy-excavator-diagnostic-suite"
+    },
+    {
       "id": 592,
       "title": "25-Brand Multi-Make Factory DAMOS, A2L, .OLS & .KP Master Pack (544 MB — Cars, Supercars & Trucks)",
       "category": "damos",
@@ -269,6 +325,13 @@
       "category": "winols",
       "price_eur": 229,
       "url": "https://www.davincideluxe.fr/shop/layton-remaps-winols-11800-ols-evc-reseller-projects-vault"
+    },
+    {
+      "id": 19,
+      "title": "Porsche PIWIS III v38.400 Dealer Diagnostic, Developer Engineering Mode & Coding Image for VAS-6154 (31.48 GB)",
+      "category": "porsche",
+      "price_eur": 149,
+      "url": "https://www.davincideluxe.fr/shop/porsche-piwis-iii-v38-400-vas6154-dealer-diagnostic-coding-image"
     },
     {
       "id": 398,
@@ -313,6 +376,20 @@
       "url": "https://www.davincideluxe.fr/shop/bmw-b48-b58-gen1-gen2-s58-tunerpro-xdf-a2l-master-vault"
     },
     {
+      "id": 13,
+      "title": "Bosch ESI[tronic] 2013/1 & 2013/3 Complete Diesel Pump/Injector Test Plans, Spare Parts & SIS Wiring Archive (34.10 GB)",
+      "category": "bosch",
+      "price_eur": 129,
+      "url": "https://www.davincideluxe.fr/shop/bosch-esitronic-2013-1-2013-3-diesel-pump-injector-wiring-archive"
+    },
+    {
+      "id": 48,
+      "title": "BMW, MINI & Rolls-Royce ISTA-P 69.0.200 Full Dealer ECU Programming, Retrofits & Coding Suite (25.30 GB)",
+      "category": "bmw",
+      "price_eur": 129,
+      "url": "https://www.davincideluxe.fr/shop/bmw-ista-p-rheingold-69-0-200-full-dealer-programming-coding-suite"
+    },
+    {
       "id": 635,
       "title": "VAG 3.0 V6 TDI & 4.0 V8 TDI EVO Factory DAMOS & A2L Master Pack (Bosch MD1CP004 · MD1CP014 · EDC17CP44 · EDC17CP54)",
       "category": "md1cp004",
@@ -325,6 +402,13 @@
       "category": "jlr damos",
       "price_eur": 189,
       "url": "https://www.davincideluxe.fr/shop/jlr-range-rover-svr-med17-8-31-ford-focus-rs-transit-mazda-skyactiv-damos-vault"
+    },
+    {
+      "id": 21,
+      "title": "DICATEC 2023 Full Offline Automotive Wiring Diagrams, ECU Pinouts, Timing & Repair Encyclopedia (21.03 GB)",
+      "category": "dicatec",
+      "price_eur": 119,
+      "url": "https://www.davincideluxe.fr/shop/dicatec-2023-offline-automotive-wiring-ecu-pinouts-encyclopedia"
     },
     {
       "id": 636,
@@ -353,6 +437,13 @@
       "category": "virtual-read",
       "price_eur": 199,
       "url": "https://www.davincideluxe.fr/shop/master-kess3-autotuner-flex-pcmflash-virtual-read-vr-stock-vault"
+    },
+    {
+      "id": 47,
+      "title": "IMMO Off EEPROM Location Master Encyclopedia & Julie Emulator Wiring/EEPROM Suite (7.77 GB)",
+      "category": "immo-off",
+      "price_eur": 119,
+      "url": "https://www.davincideluxe.fr/shop/immo-off-eeprom-location-julie-emulator-master-locksmith-vault"
     },
     {
       "id": 606,
@@ -418,6 +509,20 @@
       "url": "https://www.davincideluxe.fr/shop/zf-6hp-6hp19-6hp21-6hp26-6hp28-xhp-tcu-xdf-master-pack"
     },
     {
+      "id": 702,
+      "title": "FCA (Fiat · Alfa Romeo · Jeep · Chrysler) SGW Security Gateway Bypass, Emergency Start & Key Replacement Master Suite (13.6 GB)",
+      "category": "fiat",
+      "price_eur": 119,
+      "url": "https://www.davincideluxe.fr/shop/fca-fiat-alfa-jeep-sgw-bypass-emergency-start-key-locksmith-suite"
+    },
+    {
+      "id": 60,
+      "title": "KT200 / KT200II Full Offline Workstation Software Package — ECU & TCU OBD / Bench / Boot / BDM / JTAG + Pinouts (2.03 GB)",
+      "category": "kt200",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/kt200ii-2024-full-offline-ecu-tcu-bench-boot-obd-master-suite"
+    },
+    {
       "id": 608,
       "title": "BMW & Mini 100% Virgin Original ECU Stock BIN Master Pack (EDC16 · EDC17 · MEVD17 · MSD80/81)",
       "category": "virgin originals",
@@ -444,6 +549,34 @@
       "category": "software",
       "price_eur": 199,
       "url": "https://www.davincideluxe.fr/shop/vag-odx-frf-sgo-container-generator-converter-suite"
+    },
+    {
+      "id": 698,
+      "title": "Audi & VAG 12 GB (Unpacked) Stage 1, Stage 2, RS/S-Line Motorsport & TDI/TFSI Calibration Vault (3.53 GB Archive)",
+      "category": "audi",
+      "price_eur": 129,
+      "url": "https://www.davincideluxe.fr/shop/audi-vag-12gb-unpacked-stage1-stage2-motorsport-tuning-vault"
+    },
+    {
+      "id": 15,
+      "title": "VAG VCDS 25.3.2 & 23.11 Multilingual Diagnostic, Long-Coding & Adaptation Suite + VIIPlusLoader (1.25 GB)",
+      "category": "vcds",
+      "price_eur": 59,
+      "url": "https://www.davincideluxe.fr/shop/vag-vcds-25-3-2-viiplusloader-multilingual-diagnostic-suite"
+    },
+    {
+      "id": 22,
+      "title": "PSA & Stellantis DiagBox v9.96 Offline Dealer Diagnostic, Telecoding & Service Suite — Peugeot · Citroen · DS · Opel (1.41 GB)",
+      "category": "diagbox",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/psa-stellantis-diagbox-v9-96-offline-dealer-diagnostic-suite"
+    },
+    {
+      "id": 54,
+      "title": "Wurth WOW! 5.00.12 Multibrand Diagnostic, Guided Troubleshooting, Wiring Diagrams & Technical Data Suite (1.88 GB)",
+      "category": "wurth-wow",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/wurth-wow-5-00-12-multibrand-diagnostic-wiring-workshop-suite"
     },
     {
       "id": 609,
@@ -474,6 +607,20 @@
       "url": "https://www.davincideluxe.fr/shop/continental-simos-16-18-19-22-inca-prof-flashing-suite"
     },
     {
+      "id": 11,
+      "title": "Toyota, Lexus & Scion Techstream v18.00.008 + v16.20 + v14.10 + MultiDriver MVCI X64 (2025) Master Diagnostic Suite",
+      "category": "toyota",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/toyota-lexus-techstream-v18-v16-v14-multidriver-mvci-2025-suite"
+    },
+    {
+      "id": 69,
+      "title": "Scania Heavy-Duty Truck Diagnostic & Engineering Archive + TruckTool v4.8.0.19 Commercial Suite (2.15 GB)",
+      "category": "scania",
+      "price_eur": 99,
+      "url": "https://www.davincideluxe.fr/shop/scania-heavy-duty-truck-diagnostic-engineering-trucktool-suite"
+    },
+    {
       "id": 610,
       "title": "Ford 100% Virgin Original ECU Stock BIN Master Pack (Transit · Ranger · Focus · Fiesta · Kuga · Mondeo)",
       "category": "virgin originals",
@@ -502,6 +649,20 @@
       "url": "https://www.davincideluxe.fr/shop/haynespro-workshopdata-2018-multilingual-electronics-repair-suite"
     },
     {
+      "id": 697,
+      "title": "Allison DOC v13 & v14 Universal Commercial Automatic Transmission Diagnostic & Clutch Calibration Suite (2.09 GB)",
+      "category": "allison-doc",
+      "price_eur": 99,
+      "url": "https://www.davincideluxe.fr/shop/allison-doc-v13-v14-commercial-automatic-transmission-diagnostic-suite"
+    },
+    {
+      "id": 699,
+      "title": "Volvo VIDA 2014D Full Offline Dealer Diagnostic, Guided Fault Tracing, Wiring & Parts Catalog Suite (5.37 GB)",
+      "category": "volvo",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/volvo-vida-2014d-full-offline-dealer-diagnostic-parts-repair-suite"
+    },
+    {
       "id": 611,
       "title": "FCA (Fiat · Alfa Romeo · Jeep · Chrysler · Iveco Daily) 100% Virgin Original ECU Stock BIN Master Pack",
       "category": "virgin originals",
@@ -514,6 +675,27 @@
       "category": "davinci pro vol 1",
       "price_eur": 189,
       "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-1-4010-winols-ols-vault"
+    },
+    {
+      "id": 692,
+      "title": "American V8 & Domestic ECU Calibration Suite: VCM Suite 5.1.58 + VCM Beta + PCMHammer + LS Droid",
+      "category": "vcm-suite",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/hp-tuners-vcm-suite-5-1-58-pcmhammer-ls-droid-american-ecu-pack"
+    },
+    {
+      "id": 693,
+      "title": "Cummins INSITE 8.9 PRO & 8.7 Heavy-Duty Truck, Bus & Industrial Diesel Diagnostic Software Suite",
+      "category": "cummins",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/cummins-insite-8-9-pro-8-7-heavy-duty-diesel-diagnostic-suite"
+    },
+    {
+      "id": 25,
+      "title": "6-in-1 ECU Workshop Software Suite: MTX DTC Remover 1.8.5 + xDecoder + EasyRenault 6.1.4 + Multiecuscan 5.0 + MB ECU Renew + ChipTuningPro",
+      "category": "dtc-remover",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/multibrand-ecu-dtc-remover-xdecoder-easyrenault-multiecuscan-suite"
     },
     {
       "id": 612,
@@ -537,6 +719,27 @@
       "url": "https://www.davincideluxe.fr/shop/davinci-autodtc-verified-oem-stock-bin-master-vault"
     },
     {
+      "id": 700,
+      "title": "ATRIS Stahlgruber + ATRIS Technik Offline European Workshop Repair Manuals, Wiring & Parts Cross-Reference Suite (9.76 GB)",
+      "category": "atris",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/atris-stahlgruber-atris-technik-european-workshop-repair-parts-suite"
+    },
+    {
+      "id": 701,
+      "title": "Stakis Technik 2018.1 Full Offline European Automotive Repair, Wiring Diagrams & Maintenance Database (10.84 GB)",
+      "category": "stakis",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/stakis-technik-2018-1-offline-workshop-wiring-repair-database"
+    },
+    {
+      "id": 92,
+      "title": "SRS Airbag Crash Reset, Orange5 v1.36, TachoSoft 23.1, XGecu Pro v10.75 & Airbag Wiring Diagrams Suite",
+      "category": "airbag",
+      "price_eur": 79,
+      "url": "https://www.davincideluxe.fr/shop/airbag-service-tool-v39-orange5-tachosoft-xgpro-eeprom-suite"
+    },
+    {
       "id": 613,
       "title": "Toyota · Lexus · Honda · Suzuki · Subaru & Mitsubishi Japanese 100% Virgin Original Stock BIN Pack",
       "category": "virgin originals",
@@ -549,6 +752,13 @@
       "category": "davinci pro vol 5",
       "price_eur": 209,
       "url": "https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-5-2685-modern-ecu-winols-ols-vault"
+    },
+    {
+      "id": 694,
+      "title": "iProg+ Pro v87 Master Suite — IMMO, SRS Airbag, Dashboard, Car Radio & MCU Calculators + Scripts (1.00 GB)",
+      "category": "iprog",
+      "price_eur": 69,
+      "url": "https://www.davincideluxe.fr/shop/iprog-pro-v87-immo-airbag-dashboard-key-calculators-suite"
     },
     {
       "id": 400,
@@ -598,6 +808,13 @@
       "category": "immo off software",
       "price_eur": 119,
       "url": "https://www.davincideluxe.fr/shop/63-in-1-egr-dpf-immo-off-airbag-crash-dash-mileage-workshop-suite"
+    },
+    {
+      "id": 695,
+      "title": "GEHL Compact Construction, Skid-Steer, Track Loader & Telehandler Full Service & Diagnostic Archive (1.48 GB)",
+      "category": "gehl",
+      "price_eur": 89,
+      "url": "https://www.davincideluxe.fr/shop/gehl-construction-skid-steer-telehandler-full-service-diagnostic-vault"
     },
     {
       "id": 421,
@@ -663,6 +880,13 @@
       "url": "https://www.davincideluxe.fr/shop/davinci-motorsport-dyno-pack-a-5180-winols-ols-projects-vault"
     },
     {
+      "id": 696,
+      "title": "Honda Official Electronic Parts Catalogue (EPC 2020) Offline VIN Lookup & Exploded Diagrams Suite (1.83 GB)",
+      "category": "honda",
+      "price_eur": 59,
+      "url": "https://www.davincideluxe.fr/shop/honda-acura-official-electronic-parts-catalogue-epc-2020-suite"
+    },
+    {
       "id": 402,
       "title": "Immo Code Calculator v147",
       "category": "ecu software",
@@ -717,6 +941,13 @@
       "category": "software",
       "price_eur": 99,
       "url": "https://www.davincideluxe.fr/shop/winols-automation-scripts-diesel-eoi-timing-calculator-toolkit"
+    },
+    {
+      "id": 49,
+      "title": "Hyundai & KIA SM Official Electronic Parts Catalog (EPC 07.2020) Offline Workshop Suite",
+      "category": "hyundai",
+      "price_eur": 49,
+      "url": "https://www.davincideluxe.fr/shop/hyundai-kia-sm-epc-electronic-parts-catalog-suite"
     },
     {
       "id": 267,
