@@ -1,10 +1,10 @@
-# DaVinci Deluxe Cloud Edition — Official Digital Shop Catalog (428 Verified Automotive Packs)
+# DaVinci Deluxe Cloud Edition — Official Digital Shop Catalog (429 Verified Automotive Packs)
 
 [![Shop .fr](https://img.shields.io/badge/Digital_Shop-davincideluxe.fr%2Fshop-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/shop)
 [![Shop .org](https://img.shields.io/badge/.ORG-davincideluxe.org%2Fshop-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/shop)
 [![Shop .app](https://img.shields.io/badge/.APP-davincideluxe.app%2Fshop-ff007f?style=for-the-badge)](https://www.davincideluxe.app/shop)
 
-Instant-download engineering resources maintained by **DaVinci Deluxe Cloud Edition**: **428 verified digital packages** including **OLS/A2L/DAMOS Super Packs, 100% Virgin ORI ECU Databases, Bench & Boot Pinout Diagrams, Immo Reference Suites, and Checksum/Diagnostic Utilities**.
+Instant-download engineering resources maintained by **DaVinci Deluxe Cloud Edition**: **429 verified digital packages** including **OLS/A2L/DAMOS Super Packs, 100% Virgin ORI ECU Databases, Bench & Boot Pinout Diagrams, Immo Reference Suites, and Checksum/Diagnostic Utilities**.
 
 | Package Title | Category | Price (EUR) |
 | :--- | :--- | :---: |
@@ -15,6 +15,7 @@ Instant-download engineering resources maintained by **DaVinci Deluxe Cloud Edit
 | **[European Workshop 100% Virgin Originals Mega-Bundle (VW · Audi · Mercedes · BMW · PSA · Ford · Renault · SEAT — 14,000+ Stock BINs)](https://www.davincideluxe.fr/shop/european-workshop-virgin-originals-mega-bundle)** | mega bundle | €399.00 |
 | **[Supercar & Exotic V8 / V10 / V12 Factory DAMOS & Shift Simulation Vault (Ferrari, Lamborghini, McLaren, Bentley, Maserati & Audi R8)](https://www.davincideluxe.fr/shop/supercar-exotic-v8-v10-v12-ferrari-lamborghini-mclaren-bentley-maserati-r8-damos-vault)** | ferrari damos | €259.00 |
 | **[DaVinci Global Agri, Heavy Trucks, Motorcycles & Passenger Cars 250 GB Master Calibration Vault + 25 MB Excel Index](https://www.davincideluxe.fr/shop/davinci-global-agri-trucks-motorcycles-cars-250gb-master-vault)** | winols | €699.00 |
+| **[HardCut Limiter, Pop & Bang + Launch Control Suite (Diesel & Petrol Multi-ECU Pack)](https://www.davincideluxe.fr/shop/hardcut-limiter-pop-and-bang-diesel-petrol-launch-control-suite)** | HardCut | €20.00 |
 | **[BMW DAMOS Master Pack — DAMOS, A2L & OLS Files for BMW & Mini ECUs](https://www.davincideluxe.fr/shop/bmw-damos-master-pack)** | bmw damos | €553.00 |
 | **[E85 Bioethanol / FlexFuel WinOLS .OLS Master Vault (10,000+ Projects · 64.2 GB)](https://www.davincideluxe.fr/shop/e85-flexfuel-winols-10000-ols-master-vault)** | e85 | €349.00 |
 | **[24V Heavy-Duty Trucks, Bus & Agriculture Complete Mega-Bundle (Factory DAMOS + 25-Brand Originals + Euro 6 Vol.2 + Trucktool)](https://www.davincideluxe.fr/shop/24v-trucks-bus-agro-complete-mega-bundle)** | mega bundle | €329.00 |
@@ -107,9 +108,8 @@ Instant-download engineering resources maintained by **DaVinci Deluxe Cloud Edit
 | **[Cummins INSITE 8.9 PRO & 8.7 Heavy-Duty Truck, Bus & Industrial Diesel Diagnostic Software Suite](https://www.davincideluxe.fr/shop/cummins-insite-8-9-pro-8-7-heavy-duty-diesel-diagnostic-suite)** | cummins | €89.00 |
 | **[6-in-1 ECU Workshop Software Suite: MTX DTC Remover 1.8.5 + xDecoder + EasyRenault 6.1.4 + Multiecuscan 5.0 + MB ECU Renew + ChipTuningPro](https://www.davincideluxe.fr/shop/multibrand-ecu-dtc-remover-xdecoder-easyrenault-multiecuscan-suite)** | dtc-remover | €89.00 |
 | **[Renault · Dacia · Nissan 100% Virgin Original ECU Stock BIN Master Pack (191.5 MB)](https://www.davincideluxe.fr/shop/renault-dacia-nissan-virgin-original-bin-master-pack)** | virgin originals | €99.00 |
-| **[DaVinci Pro Calibration Series Vol. 4 — 5,105 Large-Flash WinOLS .OLS Projects Vault (13.5 GB)](https://www.davincideluxe.fr/shop/davinci-pro-calibration-series-vol-4-5105-winols-ols-vault)** | davinci pro vol 4 | €229.00 |
 
-👉 **[Browse all 428 digital packages with instant HTTPS download at davincideluxe.fr/shop →](https://www.davincideluxe.fr/shop)**
+👉 **[Browse all 429 digital packages with instant HTTPS download at davincideluxe.fr/shop →](https://www.davincideluxe.fr/shop)**
 
 
 ---
