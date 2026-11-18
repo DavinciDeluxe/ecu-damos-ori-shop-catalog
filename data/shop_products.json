@@ -9,7 +9,7 @@
     "https://www.davincideluxe.it/shop",
     "https://www.aesoftech.eu/shop"
   ],
-  "count": 428,
+  "count": 429,
   "products": [
     {
       "id": 350,
@@ -59,6 +59,13 @@
       "category": "winols",
       "price_eur": 699,
       "url": "https://www.davincideluxe.fr/shop/davinci-global-agri-trucks-motorcycles-cars-250gb-master-vault"
+    },
+    {
+      "id": 708,
+      "title": "HardCut Limiter, Pop & Bang + Launch Control Suite (Diesel & Petrol Multi-ECU Pack)",
+      "category": "HardCut",
+      "price_eur": 20,
+      "url": "https://www.davincideluxe.fr/shop/hardcut-limiter-pop-and-bang-diesel-petrol-launch-control-suite"
     },
     {
       "id": 349,
